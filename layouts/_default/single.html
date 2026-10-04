@@ -4,6 +4,11 @@
   <article>
     <h1>{{ .Title }}</h1>
     <p class="meta">Updated {{ .Lastmod.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read &middot; By the HomeFixDesk editorial team</p>
+    {{ with .Params.featured }}
+    <figure class="featured">
+      <img src="{{ . }}" alt="{{ $.Params.featuredAlt | default $.Title }}" loading="lazy">
+    </figure>
+    {{ end }}
     {{ with .TableOfContents }}
     <aside class="toc">
       <strong>On this page</strong>
