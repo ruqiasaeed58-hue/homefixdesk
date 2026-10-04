@@ -32,8 +32,11 @@
     <div class="cards">
     {{ range first 3 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
       <a class="card" href="{{ .RelPermalink }}">
-        <h3>{{ .Title }}</h3>
-        <span class="card-meta">{{ .ReadingTime }} min read</span>
+        {{ with .Params.featured }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+        <div class="card-body">
+          <h3>{{ .Title }}</h3>
+          <span class="card-meta">{{ .ReadingTime }} min read</span>
+        </div>
       </a>
     {{ end }}
     </div>
