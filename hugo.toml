@@ -1,7 +1,7 @@
 baseURL = "https://homefixdesk.online/"
-languageCode = "en-us"
+locale = "en-us"
 title = "HomeFixDesk"
 
 [params]
   description = "Clear, practical answers to everyday home repair questions — what is wrong, why it happens, and how to fix it."
-  adsensePub = ""  # set to ca-pub-XXXXXXXXXXXXXXXX after AdSense approval
+  adsensePub = "ca-pub-1510752408396029"
