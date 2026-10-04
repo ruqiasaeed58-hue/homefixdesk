@@ -1,6 +1,29 @@
 <footer class="site-footer">
-  <div class="wrap">
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. Practical answers to everyday home repair questions.</p>
-    <p><a href="/about/">About</a> &middot; <a href="/contact/">Contact</a> &middot; <a href="/privacy-policy/">Privacy Policy</a></p>
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <span class="brand-name light">Home<em>Fix</em>Desk</span>
+      <p>Clear, practical answers to the home repair questions people actually ask. No filler — just the fix.</p>
+    </div>
+    <div class="footer-col">
+      <h3>Explore</h3>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/posts/">All Answers</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h3>Popular topics</h3>
+      <ul>
+        <li><a href="/posts/">Plumbing fixes</a></li>
+        <li><a href="/posts/">Walls &amp; paint</a></li>
+        <li><a href="/posts/">Doors &amp; windows</a></li>
+        <li><a href="/posts/">Appliances</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <p>&copy; {{ now.Format "2006" }} HomeFixDesk. All rights reserved. <a href="/privacy-policy/">Privacy Policy</a></p>
   </div>
 </footer>
