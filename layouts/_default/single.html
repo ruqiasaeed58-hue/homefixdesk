@@ -6,7 +6,10 @@
     <p class="meta">Updated {{ .Lastmod.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read &middot; By the HomeFixDesk editorial team</p>
     {{ with .Params.featured }}
     <figure class="featured">
-      <img src="{{ . }}" alt="{{ $.Params.featuredAlt | default $.Title }}" loading="lazy">
+      <picture>
+        <source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp">
+        <img src="{{ . }}" alt="{{ $.Params.featuredAlt | default $.Title }}" loading="lazy">
+      </picture>
     </figure>
     {{ end }}
     {{ with .TableOfContents }}
@@ -32,7 +35,7 @@
     <div class="cards">
     {{ range first 3 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
       <a class="card" href="{{ .RelPermalink }}">
-        {{ with .Params.featured }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+        {{ with .Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></picture>{{ end }}
         <div class="card-body">
           <h3>{{ .Title }}</h3>
           <span class="card-meta">{{ .ReadingTime }} min read</span>
