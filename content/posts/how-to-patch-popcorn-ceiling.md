@@ -51,12 +51,33 @@ This is where matching matters.
 3. **Paint the entire ceiling** — not just the patch. Touch-up paint on popcorn ceilings almost always shows; a full ceiling coat makes the repair invisible. Flat white ceiling paint is standard.
 4. Use a thick-nap roller and go slowly — aggressive rolling pulls texture off.
 
+## Why popcorn ceilings get damaged
+
+Understanding the cause helps you fix it right the first time:
+
+- **Water leaks** from above are the #1 cause — a roof leak or plumbing drip softens the texture and it flakes off in sheets. Always fix the leak first.
+- **Impact damage** from moving furniture or ladders knocks texture loose.
+- **Age and humidity** — decades-old texture in bathrooms loses adhesion as moisture cycles work behind it.
+- **Previous bad repairs** — thick paint or wrong texture products peel away from the original.
+
+If the damage keeps spreading after your repair, moisture is still getting in — investigate before patching again.
+
 ## Matching tips
 
 - **Test first:** always test-spray on cardboard and compare to the ceiling before spraying the repair.
 - **Vary your distance:** closer = heavier texture, farther = finer. Match what is there.
 - **Older ceilings yellow** — even a perfect texture match shows if the paint color differs. Painting the whole ceiling solves this.
 - **Canned patch spray** works for areas up to a few square feet. Bigger than that, rent the hopper gun.
+- **Two light passes beat one heavy pass.** Let the first coat tack up for 10 minutes before the second — it builds dimension like the original spray application.
+- **Blend beyond the damage.** Extend your texture feathering 6–12 inches past the visible repair into the old texture. The eye catches hard edges, not gradual transitions.
+
+## Dealing with water stains
+
+Water damage leaves yellow-brown stains that bleed through regular paint:
+
+1. After the texture is patched and dry, apply a **shellac-based stain-blocking primer** (not regular primer) over any discoloration. Water stains bleed through latex primer repeatedly.
+2. Two thin coats of stain blocker beat one thick coat.
+3. Then paint the full ceiling as normal. Skipping this step means the stain reappears within weeks.
 
 ## What this costs
 
@@ -78,10 +99,23 @@ This is where matching matters.
 
 ## Frequently asked questions
 
-- **Can I just paint over a damaged popcorn ceiling?** Paint does not fix missing texture — the damaged spot will still show as a smooth patch. Repair the texture first, then paint.
-- **Should I just remove the whole popcorn ceiling?** Many homeowners do — smooth ceilings look modern and are easier to maintain. But removal is a big dusty job (and an asbestos job if pre-1980s). If only a small area is damaged, patching is far easier.
-- **How do I know if my popcorn ceiling has asbestos?** You cannot tell by looking. Only a lab test confirms it. Homes built before 1980 are the risk zone; the EPA banned spray-applied asbestos texture in 1978, but existing stock was used into the early 80s.
-- **Does patch spray really match?** For small repairs, surprisingly well — especially after the whole ceiling is painted. Perfect invisible matches on large areas are harder; that is when pros earn their fee.
+**Can I just paint over a damaged popcorn ceiling?**
+Paint does not fix missing texture — the damaged spot will still show as a smooth patch. Repair the texture first, then paint.
+
+**Should I just remove the whole popcorn ceiling?**
+Many homeowners do — smooth ceilings look modern and are easier to maintain. But removal is a big dusty job (and an asbestos job if pre-1980s). If only a small area is damaged, patching is far easier.
+
+**How do I know if my popcorn ceiling has asbestos?**
+You cannot tell by looking. Only a lab test confirms it. Homes built before 1980 are the risk zone; the EPA banned spray-applied asbestos texture in 1978, but existing stock was used into the early 80s.
+
+**Does patch spray really match?**
+For small repairs, surprisingly well — especially after the whole ceiling is painted. Perfect invisible matches on large areas are harder; that is when pros earn their fee.
+
+**How long does a popcorn ceiling patch take?**
+A small patch is a weekend project: Day 1 for prep and texture (2–3 hours plus drying), Day 2 for painting after the texture cures 24 hours. Rushing the dry time is the main reason patches fail.
+
+**Can I patch a popcorn ceiling in a bathroom?**
+Yes, but use a bathroom-rated primer and paint with mildew resistance — the humidity that damaged the texture will attack the repair too. And fix the ventilation (exhaust fan) or the damage comes back.
 
 ## When to call a pro
 
