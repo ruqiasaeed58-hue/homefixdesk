@@ -1,9 +1,16 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
-<ul class="post-list">
-{{ range .Pages.ByDate.Reverse }}
-  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="date">{{ .Date.Format "Jan 2, 2006" }}</span></li>
-{{ end }}
-</ul>
+<div class="wrap narrow">
+  <nav class="crumbs"><a href="/">Home</a> <span>/</span> {{ .Title }}</nav>
+  <h1>{{ .Title }}</h1>
+  {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
+  <div class="cards">
+  {{ range .Pages.ByDate.Reverse }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <h3>{{ .Title }}</h3>
+      <p>{{ with .Description }}{{ . | truncate 110 }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}</p>
+      <span class="card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min read</span>
+    </a>
+  {{ end }}
+  </div>
+</div>
 {{ end }}
