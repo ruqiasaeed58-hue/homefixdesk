@@ -1,15 +1,46 @@
 {{ define "main" }}
 <section class="hero">
-  <h1>Straight answers to everyday home repair questions.</h1>
-  <p>No fluff, no ten-minute videos. Just what is wrong, why it happens, and how to fix it.</p>
+  <div class="wrap hero-inner">
+    <p class="kicker">Home repair, explained simply</p>
+    <h1>Something broken at home?<br>Here is exactly how to fix it.</h1>
+    <p class="hero-sub">Straight answers to everyday repair questions — what is wrong, why it happens, and the steps to fix it yourself.</p>
+    <p><a class="btn" href="/posts/">Browse all answers</a></p>
+  </div>
 </section>
-<section>
-  <h2>Latest answers</h2>
-  <ul class="post-list">
-  {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="date">{{ .Date.Format "Jan 2, 2006" }}</span></li>
-  {{ end }}
-  </ul>
-  <p><a href="/posts/">Browse all answers &rarr;</a></p>
-</section>
+<div class="wrap">
+  <section class="topics">
+    <h2>What are you fixing today?</h2>
+    <div class="topic-chips">
+      <a href="/posts/">Plumbing</a>
+      <a href="/posts/">Walls &amp; Paint</a>
+      <a href="/posts/">Doors &amp; Windows</a>
+      <a href="/posts/">Floors</a>
+      <a href="/posts/">Appliances</a>
+      <a href="/posts/">Electrical basics</a>
+    </div>
+  </section>
+  <section>
+    <div class="section-head">
+      <h2>Latest answers</h2>
+      <a class="see-all" href="/posts/">See all &rarr;</a>
+    </div>
+    <div class="cards">
+    {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        <p>{{ with .Description }}{{ . | truncate 110 }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}</p>
+        <span class="card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min read</span>
+      </a>
+    {{ end }}
+    </div>
+  </section>
+  <section class="promise">
+    <h2>Why trust HomeFixDesk?</h2>
+    <div class="promise-grid">
+      <div><h3>Answer first</h3><p>Every guide opens with the direct answer — no scrolling through life stories to find the fix.</p></div>
+      <div><h3>Safety aware</h3><p>When a job needs a licensed pro, we say so clearly instead of pretending everything is DIY.</p></div>
+      <div><h3>Kept current</h3><p>Guides are reviewed and updated so the steps still work with today's products.</p></div>
+    </div>
+  </section>
+</div>
 {{ end }}
