@@ -1,6 +1,6 @@
 ---
 title: "How Do I Fix a Dripping Faucet?"
-date: 2026-10-05
+date: 2026-10-04
 description: "A dripping faucet is usually caused by a worn cartridge or washer. Here is how to identify your faucet type and fix the drip yourself in about 30 minutes."
 featured: "/images/dripping-faucet-fix.jpg"
 draft: false
