@@ -1,0 +1,18 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p class="meta">Updated {{ .Lastmod.Format "January 2, 2006" }}</p>
+  <div class="content">{{ .Content }}</div>
+  <aside class="safety">
+    <strong>Safety note:</strong> If you are unsure about any step, or the job involves electricity, gas, or structural work, call a licensed professional. These guides explain common fixes — they are not a substitute for professional advice.
+  </aside>
+</article>
+<section class="related">
+  <h2>Related questions</h2>
+  <ul>
+  {{ range first 4 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+</section>
+{{ end }}
