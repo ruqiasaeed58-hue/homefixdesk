@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>Straight answers to everyday home repair questions.</h1>
+  <p>No fluff, no ten-minute videos. Just what is wrong, why it happens, and how to fix it.</p>
+</section>
+<section>
+  <h2>Latest answers</h2>
+  <ul class="post-list">
+  {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="date">{{ .Date.Format "Jan 2, 2006" }}</span></li>
+  {{ end }}
+  </ul>
+  <p><a href="/posts/">Browse all answers &rarr;</a></p>
+</section>
+{{ end }}
