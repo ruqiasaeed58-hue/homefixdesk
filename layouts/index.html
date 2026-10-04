@@ -27,7 +27,7 @@
     <div class="cards">
     {{ range first 6 (where .Site.RegularPages "Section" "posts") }}
       <a class="card" href="{{ .RelPermalink }}">
-        {{ with .Params.featured }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+        {{ with .Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></picture>{{ end }}
         <div class="card-body">
           <h3>{{ .Title }}</h3>
           <p>{{ with .Description }}{{ . | truncate 110 }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}</p>
