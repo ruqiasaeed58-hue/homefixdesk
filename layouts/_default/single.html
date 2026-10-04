@@ -1,18 +1,37 @@
 {{ define "main" }}
-<article>
-  <h1>{{ .Title }}</h1>
-  <p class="meta">Updated {{ .Lastmod.Format "January 2, 2006" }}</p>
-  <div class="content">{{ .Content }}</div>
-  <aside class="safety">
-    <strong>Safety note:</strong> If you are unsure about any step, or the job involves electricity, gas, or structural work, call a licensed professional. These guides explain common fixes — they are not a substitute for professional advice.
-  </aside>
-</article>
-<section class="related">
-  <h2>Related questions</h2>
-  <ul>
-  {{ range first 4 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-  {{ end }}
-  </ul>
-</section>
+<div class="wrap narrow">
+  <nav class="crumbs"><a href="/">Home</a> <span>/</span> <a href="/posts/">All Answers</a> <span>/</span> <span class="crumb-current">{{ .Title | truncate 48 }}</span></nav>
+  <article>
+    <h1>{{ .Title }}</h1>
+    <p class="meta">Updated {{ .Lastmod.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read &middot; By the HomeFixDesk editorial team</p>
+    {{ with .TableOfContents }}
+    <aside class="toc">
+      <strong>On this page</strong>
+      {{ . }}
+    </aside>
+    {{ end }}
+    <div class="content">{{ .Content }}</div>
+    <aside class="safety">
+      <strong>Safety note:</strong> If you are unsure about any step, or the job involves electricity, gas, or structural work, call a licensed professional. These guides explain common fixes — they are not a substitute for professional advice.
+    </aside>
+    <div class="author-box">
+      <div class="author-mark">H</div>
+      <div>
+        <strong>HomeFixDesk Editorial Team</strong>
+        <p>We research, test, and update every guide so the fix actually works. Spotted something outdated? <a href="/contact/">Tell us</a> and we will fix the guide.</p>
+      </div>
+    </div>
+  </article>
+  <section class="related">
+    <h2>Related questions</h2>
+    <div class="cards">
+    {{ range first 3 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
+      <a class="card" href="{{ .RelPermalink }}">
+        <h3>{{ .Title }}</h3>
+        <span class="card-meta">{{ .ReadingTime }} min read</span>
+      </a>
+    {{ end }}
+    </div>
+  </section>
+</div>
 {{ end }}
