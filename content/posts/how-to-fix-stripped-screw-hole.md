@@ -8,6 +8,18 @@ draft: false
 
 A stripped screw hole — where the screw spins freely without biting — is one of the most common DIY frustrations. It happens on door hinges, cabinet hardware, furniture, and deck boards. The fix is straightforward: give the screw fresh wood to bite into. Three methods cover every situation, from a quick hinge fix to a load-bearing repair.
 
+## Why screw holes strip (the mechanics)
+
+A screw holds because its threads cut into solid wood fibers and wedge tight. Stripping happens when those fibers are destroyed:
+
+- **Overdriving:** the most common cause. Once the screw is snug, every extra turn grinds the threads against the wood, enlarging the hole until the threads have nothing to bite.
+- **No pilot hole:** driving a screw into hardwood without a pilot forces the wood apart. The fibers split and crush instead of forming clean threads — the screw feels tight initially, then loosens as the crushed fibers relax.
+- **Wrong screw for the material:** coarse-thread screws in hardwood, or fine-thread screws in softwood, do not form proper threads.
+- **Repeated removal:** every time you back a screw out and drive it back in, the threads wear a slightly larger path. Hinges and access panels that get removed often strip eventually.
+- **Soft or damaged wood:** particleboard, MDF, water-damaged wood, and end grain all hold threads poorly from the start.
+
+Understanding this tells you why the fixes work: every method below replaces the destroyed fibers with fresh material for the threads to bite.
+
 ## Quick diagnosis: how bad is it?
 
 - **Screw spins but the hole is small** → toothpick method (5 minutes). See Fix 1.
@@ -96,6 +108,23 @@ Usually no pilot hole, wrong bit size, or a worn driver bit. Replace driver bits
 
 **Will wood glue alone hold a screw?**
 No — glue fills the void but has no structure for threads to bite. You need the toothpick/dowel/epoxy filler material.
+
+**How do I fix a stripped screw hole in a door hinge specifically?**
+The toothpick method is the go-to for hinges — it takes 5 minutes and holds for years. For heavy exterior doors where hinge screws keep stripping, upgrade to the dowel method and use 3-inch screws that reach through the jamb into the wall framing. That transfers the door's weight to the structure instead of just the jamb.
+
+**Can I use this fix on outdoor wood?**
+Yes, but use waterproof glue (polyurethane or exterior-rated wood glue) and consider stainless steel or coated screws. Standard yellow glue softens with repeated moisture exposure.
+
+## Choosing the right method: quick reference
+
+| Situation | Best method | Why |
+|---|---|---|
+| Hinge screw, small hole | Toothpick | Fast, strong enough, invisible |
+| Large hole or soft wood | Dowel | Replaces the wood entirely |
+| Particleboard / MDF | Epoxy or insert | Wood fillers crumble in manufactured board |
+| Hardware removed often | Threaded insert | Metal threads never wear out |
+| Load-bearing / structural | Dowel + longer screw | Maximum strength into solid wood |
+| Outdoor / wet location | Epoxy + waterproof glue | Resists moisture degradation |
 
 ## When to call a pro
 
