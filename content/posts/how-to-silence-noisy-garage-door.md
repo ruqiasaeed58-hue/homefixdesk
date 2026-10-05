@@ -8,6 +8,17 @@ draft: false
 
 A garage door that screeches, grinds, or rattles announces itself to the whole neighborhood — and the noise usually means something is wearing out. The fix is almost always maintenance, not replacement: lubricate the moving parts, tighten the hardware, and replace worn rollers. An hour of work can make a 15-year-old door run like new.
 
+## Why garage doors get noisy (the wear cycle)
+
+Garage door noise follows a predictable wear cycle:
+
+1. **Lubricant dries out** — factory grease on hinges and rollers lasts 1–2 years, then friction starts.
+2. **Friction accelerates wear** — dry metal-on-metal grinds rollers flat and wallows out hinge pivots.
+3. **Vibration loosens hardware** — thousands of open/close cycles shake nuts and bolts loose.
+4. **Loose hardware increases vibration** — which accelerates wear further. The cycle feeds itself.
+
+This is why a 6-month lubrication routine prevents the whole cascade: you never let step 1 happen, so steps 2–4 never start. A $10 can of spray every spring and fall is the entire prevention program.
+
 ## Quick diagnosis: what kind of noise?
 
 - **Squeaking as it moves** → dry hinges and rollers need lubrication. See Step 1.
@@ -107,6 +118,20 @@ Dramatically — most people describe it as the difference between a freight tra
 
 **My door is quiet but the opener shakes the house — why?**
 Vibration transmission through the mounting straps into ceiling joists. Rubber isolation mounts and checking that the opener is not overtightened against the ceiling fix most of it.
+
+**How long do garage door rollers last?**
+Metal rollers: 5–10 years. Nylon rollers with sealed bearings: 15–20 years. If your door is 10+ years old and still on original metal rollers, replacement is overdue regardless of noise.
+
+**Should I lubricate the torsion spring?**
+A light spray on the coils reduces friction noise between coils — yes. But never touch the spring's mounting hardware, set screws, or winding cones. Lubrication yes, mechanical work no.
+
+## Seasonal maintenance checklist
+
+- **Spring:** lubricate all moving parts, tighten hardware, inspect rollers and cables for wear.
+- **Summer:** check the opener's safety reverse (place a 2x4 under the door — it should reverse on contact). Heat expands metal; verify track alignment.
+- **Fall:** lubricate again before winter. Cold thickens old lubricant — fresh spray keeps things moving.
+- **Winter:** listen for new noises (cold reveals worn bearings). Keep the tracks clear of ice and debris.
+- **Annually:** inspect the lift cables for fraying and the torsion spring for gaps in the coils (a gap means a broken spring — call a pro immediately).
 
 ## When to call a pro
 
