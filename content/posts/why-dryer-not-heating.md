@@ -1,6 +1,6 @@
 ---
 title: "Why Is My Dryer Not Heating?"
-date: 2026-10-04T12:00:00Z
+date: 2026-10-04
 description: "A dryer that tumbles but stays cold usually has a clogged vent, blown thermal fuse, or failed heating element. Troubleshoot it step by step."
 featured: "/images/dryer-not-heating-fix.jpg"
 draft: false
