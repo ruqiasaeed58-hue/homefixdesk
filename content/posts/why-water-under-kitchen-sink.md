@@ -8,6 +8,16 @@ draft: false
 
 Finding water under the kitchen sink is stressful — but the leak is almost always visible once you know where to look. Water under a sink comes from only three places: the supply lines (pressurized, leaks constantly), the drain assembly (leaks only when water runs down the drain), or the faucet/tap above (drips down through the mounting holes). This guide helps you trace it to the source.
 
+## The three leak zones (understanding the plumbing)
+
+Under-sink plumbing has three distinct systems, and each leaks differently:
+
+1. **Supply side (pressurized):** hot and cold water lines under constant 40–80 PSI pressure. Leaks here run 24/7, even with the faucet off. These are the dangerous ones — a burst supply line can release gallons per minute.
+2. **Faucet connections:** the short lines and mounting hardware connecting the faucet to the supply. Leaks here often appear only when the faucet runs, as water travels down the faucet body.
+3. **Drain side (gravity):** the basket strainer, P-trap, and disposal connections. Water only flows here when the sink drains — leaks appear during and just after use.
+
+This distinction drives the diagnosis: a leak that never stops is supply-side; a leak tied to water use is drain-side or faucet-side. The paper towel trick (below) confirms which.
+
 ## First: protect the cabinet
 
 Before diagnosing, put down old towels and empty the cabinet. If the cabinet floor is swollen, soft, or moldy, the leak has been going a while — dry everything with a fan and check for mold. A cabinet floor that stays wet rots, so finding the source quickly matters.
@@ -81,6 +91,19 @@ As a stopgap for a drain drip, yes — but a supply leak needs the valve shut of
 
 **How do I know if there is mold?**
 Musty smell, black or green staining on the cabinet floor or back wall, or wood that stays damp. Small surface mold can be cleaned with a mold-killing cleaner; extensive mold inside the cabinet structure needs professional remediation.
+
+**Should I replace supply lines preventively?**
+Yes — if they are over 10 years old, showing discoloration, stiffness, or bulging. Braided stainless steel lines are the standard upgrade ($8–$12 each). This 15-minute job prevents the most destructive common household leak. Replace them on a Saturday morning, not during a midnight emergency.
+
+**What if the cabinet floor is already damaged?**
+Minor swelling: dry thoroughly with a fan for 48 hours, then seal with a waterproof primer. Soft/rotted wood: cut out the damaged section and replace with plywood, or install a plastic cabinet floor tray ($15–$25) that contains future leaks and protects the wood.
+
+## Preventing future under-sink leaks
+
+- **Install a leak detector.** A $15–$30 water alarm under the sink screams when it gets wet — the cheapest insurance against slow leaks that rot cabinets silently for months.
+- **Replace supply lines every 10 years** — put it on the same schedule as smoke detector batteries.
+- **Do not overstuff the cabinet.** Shoving cleaning supplies against supply lines and trap connections loosens them over time. Keep the plumbing zone clear.
+- **Check quarterly.** A 30-second look under the sink every few months catches weeping connections before they become cabinet replacements.
 
 ## When to call a pro
 
