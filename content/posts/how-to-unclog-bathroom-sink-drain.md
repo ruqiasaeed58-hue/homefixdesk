@@ -8,6 +8,16 @@ draft: false
 
 A bathroom sink that drains slowly is almost always clogged with hair and soap scum wrapped around the pop-up stopper or sitting in the P-trap — not deep in the pipes. You can clear it yourself in about 20 minutes with no special skills and no chemical drain cleaner.
 
+## Why bathroom sinks clog (the hair + soap equation)
+
+Bathroom sink clogs are chemically different from kitchen clogs:
+
+- **Hair** provides the structure — long strands wrap around the stopper and trap walls, forming a net.
+- **Soap scum** (calcium stearate, formed when soap meets hard water minerals) coats the hair net, making it waterproof and sticky.
+- **Toothpaste, shaving cream, and skin oils** fill the gaps, compacting the mass into a dense plug.
+
+This is why chemical drain cleaners fail on bathroom sinks: they cannot dissolve the hair structure, and the soap-scum coating shields the clog. Mechanical removal — pulling the hair out — is the only reliable fix. The good news: the clog is almost always within arm's reach.
+
 ## Quick diagnosis: where is the clog?
 
 - **Water drains slowly but eventually empties** → the clog is shallow: hair on the pop-up stopper or in the visible drain. Start with Step 1.
@@ -88,6 +98,20 @@ Biofilm — bacteria feeding on soap and skin oils coating the inside of the dra
 
 **How do I know the clog is past the P-trap?**
 If the trap is clean and the snake comes back empty but water still stands, the blockage is further down the branch line. A 25-foot auger fed from this drain usually reaches it; if not, it is plumber territory.
+
+**Why does the drain gurgle when it finally empties?**
+Air trapped behind the clog escapes as water forces through — the gurgle is actually a good sign that the blockage is breaking up. If gurgling persists after the drain runs clear, the vent for that branch may be partially blocked.
+
+**Can I prevent hair clogs if I shed a lot?**
+A stainless mesh drain cover ($3–$5) is the single best investment — it catches hair before it enters the drain. Empty it every few days. For heavy shedders, brush hair before washing your face so loose strands go in the trash, not the sink.
+
+## The monthly 2-minute routine (prevents all of this)
+
+1. **Pull the stopper** and wipe off accumulated hair — 30 seconds.
+2. **Run very hot water** for 30 seconds — melts fresh soap scum before it hardens.
+3. **Wipe the drain rim** with the used hand towel — removes the biofilm ring.
+
+Do this monthly and you will never need the P-trap step again. Clogs form over weeks; interrupting the buildup monthly keeps the drain permanently clear.
 
 ## When to call a plumber
 
