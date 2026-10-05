@@ -10,6 +10,18 @@ If your garbage disposal hums when you flip the switch but the blades do not spi
 
 **Safety first:** never put your hand inside a disposal, even when it is switched off. Always work with the wall switch off, and use tongs or pliers — never fingers — to pull anything out.
 
+## How a garbage disposal works (and why it jams)
+
+A disposal is not a blender — there are no spinning blades. Inside:
+
+1. A **flywheel** spins at ~1,700 RPM, flinging food outward by centrifugal force.
+2. Fixed **impellers** (lugs) on the flywheel smash food against a stationary **grind ring** — a textured metal wall with small holes.
+3. Ground particles wash through the holes and down the drain.
+
+A jam happens when something hard wedges between the flywheel and the grind ring, locking the flywheel in place. The motor still tries to spin (the hum), but the flywheel cannot move. The hex socket on the bottom connects directly to the flywheel shaft — turning it manually breaks the wedge free.
+
+**Why the hum-then-silence pattern:** the motor draws locked-rotor current (5–6x normal) when jammed. Within seconds the thermal overload protector trips to prevent the windings from burning out. That is the click/silence. Pressing the reset button restores power after the motor cools.
+
 ## Quick check: is it jammed or dead?
 
 - **Hums but does not spin** → jammed flywheel. Follow the fix below — this covers about 90% of cases.
@@ -79,6 +91,19 @@ The old trick of jamming a broom handle down the drain to twist the flywheel wor
 
 **My disposal is 15 years old and jams monthly. Fix or replace?**
 Replace. Worn impellers jam on foods they used to handle easily, and the motor is living on borrowed time. A new mid-range unit plus an hour of DIY (or a plumber visit) ends the cycle.
+
+**Why does my disposal smell bad even when it works?**
+Food particles trapped in the grind ring and splash guard decompose. Grind ice cubes with lemon monthly, scrub the underside of the rubber splash guard with a brush (a major hidden odor source), and always run water 15 seconds after grinding to flush everything through.
+
+**Can a jam damage the motor permanently?**
+A single jam rarely does — the overload protector exists for exactly this. But repeated jamming with immediate reset-button mashing (not letting the motor cool) overheats the windings and shortens motor life. After freeing a jam, wait 5 minutes before pressing reset.
+
+## Choosing a replacement (when repair is not worth it)
+
+- **Horsepower:** 1/2 HP is fine for light use; 3/4 HP handles most families; 1 HP for heavy use. More power = fewer jams.
+- **Sound insulation:** the main difference between $100 and $250 models. If the kitchen is open-plan, pay for the quieter unit.
+- **Stainless steel grind components** last longer than galvanized — worth the small premium.
+- **Same mounting type:** most disposals use a standard 3-bolt mount, so swapping brands is usually straightforward. Keep the old mounting assembly if it is compatible — it saves 20 minutes.
 
 ## When to call a plumber
 
