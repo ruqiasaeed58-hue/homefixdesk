@@ -8,6 +8,16 @@ draft: false
 
 Bathroom exhaust fans get louder with age — but "louder than it used to be" is a symptom, not a life sentence. The noise almost always comes from one of three places: dust caked on the fan wheel throwing it off balance, a worn-out motor bearing, or a housing that has worked loose. Most fixes take under an hour.
 
+## Why fans get louder with age (the three culprits)
+
+Fan noise increases for physical reasons, not mysterious ones:
+
+1. **Unbalanced wheel:** dust accumulates unevenly on the fan wheel. Even a gram of extra weight on one side creates vibration that grows with RPM — the same physics as an unbalanced ceiling fan or car tire.
+2. **Worn bearings:** the motor's bearings lose lubrication and develop play over thousands of hours. Play means the shaft wobbles microscopically, producing grinding or whining.
+3. **Loosened mounting:** years of vibration back out screws and fatigue spring clips. A housing that was solid now has micro-gaps that rattle at fan frequency.
+
+Cleaning addresses #1, tightening addresses #3, and only motor replacement addresses #2. Diagnose by noise type (below) to avoid replacing a motor that just needs cleaning.
+
 ## Quick diagnosis: what kind of noise?
 
 - **Gradually got louder over years** → dust buildup and motor wear. See Steps 1–2.
@@ -96,6 +106,19 @@ Yes — run it during the shower and for 20–30 minutes after. Moisture left in
 
 **Can a loud fan cause damage?**
 The noise itself is just annoying, but the underlying causes matter: a dust-choked fan moves less air (mold risk), and a disconnected duct dumps moisture into the attic (rot risk).
+
+**What do sone ratings actually mean?**
+The sone scale is linear — 2 sones sounds twice as loud as 1 sone. A 4-sone builder fan sounds roughly 8x louder than a 0.5-sone premium fan. That is why the upgrade feels so dramatic: it is not a small improvement, it is an order-of-magnitude difference.
+
+**Why does my new quiet fan barely seem to move air?**
+Check the duct — a crushed, kinked, or overlong duct run chokes even a good fan. Also verify the exterior vent cap opens freely. A premium fan on a bad duct performs like a cheap fan.
+
+## Maintenance schedule (keeps it quiet)
+
+- **Every 6 months:** vacuum the cover and fan wheel. Takes 10 minutes, prevents the dust-unbalance cycle.
+- **Annually:** check the duct connection and exterior vent cap. Clear any lint, nests, or stuck dampers.
+- **Every 2–3 years:** if the motor has oil ports, add a few drops of electric motor oil.
+- **At 10 years:** budget for replacement. Even well-maintained builder fans wear out — plan the upgrade on your terms, not as an emergency.
 
 ## When to call a pro
 
