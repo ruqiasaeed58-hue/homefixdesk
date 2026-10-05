@@ -4,6 +4,10 @@
     <p class="kicker">Home repair, explained simply</p>
     <h1>Something broken at home?<br>Here is exactly how to fix it.</h1>
     <p class="hero-sub">Straight answers to everyday repair questions — what is wrong, why it happens, and the steps to fix it yourself.</p>
+    <div class="hero-search">
+      <input type="search" id="site-search" placeholder="Search answers — try &ldquo;dripping faucet&rdquo;" autocomplete="off" aria-label="Search answers">
+      <div class="search-results" id="search-results" hidden></div>
+    </div>
     <p><a class="btn" href="/posts/">Browse all answers</a></p>
   </div>
 </section>
@@ -24,18 +28,19 @@
       <h2>Latest answers</h2>
       <a class="see-all" href="/posts/">See all &rarr;</a>
     </div>
-    <div class="cards">
-    {{ range first 12 (where .Site.RegularPages "Section" "posts") }}
-      <a class="card" href="{{ .RelPermalink }}">
-        {{ with .Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></picture>{{ end }}
+    <div class="cards" id="home-cards">
+    {{ range $i, $p := (where .Site.RegularPages "Section" "posts") }}
+      <a class="card{{ if ge $i 12 }} is-hidden{{ end }}" href="{{ $p.RelPermalink }}">
+        {{ with $p.Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $p.Title }}" loading="lazy"></picture>{{ end }}
         <div class="card-body">
-          <h3>{{ .Title }}</h3>
-          <p>{{ with .Description }}{{ . | truncate 110 }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}</p>
-          <span class="card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min read</span>
+          <h3>{{ $p.Title }}</h3>
+          <p>{{ with $p.Description }}{{ . | truncate 110 }}{{ else }}{{ $p.Summary | truncate 110 }}{{ end }}</p>
+          <span class="card-meta">{{ $p.Date.Format "Jan 2, 2006" }} &middot; {{ $p.ReadingTime }} min read</span>
         </div>
       </a>
     {{ end }}
     </div>
+    <div class="load-more-wrap"><button class="btn" id="load-more" type="button">Load more answers</button></div>
   </section>
   <section class="promise">
     <h2>Why trust HomeFixDesk?</h2>
