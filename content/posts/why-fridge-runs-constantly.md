@@ -8,6 +8,18 @@ draft: false
 
 A refrigerator should cycle on and off throughout the day. If yours runs constantly — humming away 24/7 — it is struggling to maintain temperature. That means higher electricity bills, faster wear on the compressor, and food that may not be as cold as it should be. The causes are usually simple and fixable without a technician.
 
+## How a refrigerator cools (and why it cycles)
+
+A fridge does not make cold — it moves heat. The cycle:
+
+1. The **compressor** pressurizes refrigerant gas, making it hot.
+2. Hot refrigerant flows through the **condenser coils**, releasing heat into your kitchen (that is why the back/sides feel warm).
+3. The cooled refrigerant expands through a valve into the **evaporator coils** inside, getting very cold.
+4. The cold evaporator absorbs heat from inside the fridge; a fan circulates the cold air.
+5. When the thermostat reads the target temperature, it shuts off the compressor. The fridge coasts until the temperature drifts up, then cycles on again.
+
+Constant running means step 2 or 5 is failing: either heat is not being released efficiently (dirty coils), heat keeps leaking in (bad seals), or the thermostat never gets satisfied (wrong setting, failing sensor, low refrigerant). The steps below follow this logic.
+
 ## Quick diagnosis: is it actually a problem?
 
 - **Runs constantly but food is cold** → inefficient, but not urgent. Dirty coils or bad seals are making it work overtime. See Steps 1–2.
@@ -87,6 +99,19 @@ New fridges run more during the first 24 hours (reaching temperature) and in hot
 
 **Does the ice maker make it run more?**
 Slightly — ice production adds load. But it should not cause constant running on its own.
+
+**How much extra electricity does a struggling fridge use?**
+A healthy modern fridge uses 100–200 kWh per month. One with dirty coils and bad seals can use 300–500 kWh — at average US rates, that is an extra $20–$40 per month, or $240–$480 per year. Coil cleaning pays for itself in weeks.
+
+**Should I pull the fridge away from the wall?**
+Yes — leave 1–2 inches of clearance behind and on the sides for airflow over the condenser coils. Fridges pushed tight into a cabinet alcove trap their own waste heat and run longer. Check your manual for the exact clearance spec.
+
+## Energy-saving habits
+
+- **Keep it reasonably full.** A full fridge holds temperature better than an empty one (thermal mass). But do not pack it so tight that air cannot circulate.
+- **Cool hot food first.** Let cooked food reach room temperature (within 2 hours for safety) before refrigerating.
+- **Minimize door-open time.** Know what you want before you open the door — every long open-door session is a compressor marathon.
+- **Check the kitchen temperature.** A fridge in a 90°F garage or next to an oven works dramatically harder than one in a 70°F kitchen.
 
 ## When to call a pro
 
