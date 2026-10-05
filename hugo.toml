@@ -5,3 +5,12 @@ title = "HomeFixDesk"
 [params]
   description = "Clear, practical answers to everyday home repair questions — what is wrong, why it happens, and how to fix it."
   adsensePub = "ca-pub-1510752408396029"
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
+
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "search"
+  isPlainText = true
+  notAlternative = true
