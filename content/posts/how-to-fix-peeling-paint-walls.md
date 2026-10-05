@@ -19,6 +19,8 @@ Paint peels when it loses adhesion to the surface beneath — and simply paintin
 
 Scraping old paint in a pre-1978 home can release lead dust. Wear a P100 respirator, contain the area with plastic sheeting, and clean up with a HEPA vacuum and wet mopping. A $15 lead test kit tells you in minutes whether precautions are needed.
 
+**If the test is positive for lead:** do not dry-scrape or sand — that creates the most dangerous dust. Either use wet-scraping methods with full containment, or hire an EPA RRP-certified painter. Federal law requires lead-safe practices in pre-1978 homes, and the fines for improper work are steep. For small areas, encapsulation (sealing with a special encapsulant primer instead of removing) is an EPA-recognized option.
+
 ## What you will need
 
 - Paint scraper (stiff) and putty knife
@@ -88,6 +90,19 @@ Not without primer. The rule: if you do not know what the old paint is, prime wi
 
 **How long should a proper repaint last?**
 Interior walls: 7–10 years. Bathrooms: 5–7 years even with good prep, due to moisture cycling.
+
+**Should I use a dehumidifier while the paint cures?**
+In damp conditions, yes — keeping room humidity under 50% during the first 48 hours helps paint cure properly instead of trapping moisture. Good airflow matters as much as temperature.
+
+**Why is the new paint peeling but the old paint underneath is fine?**
+The bond failed between the coats, not between the old paint and the wall. This happens when the old surface was not cleaned or deglossed, when the wrong primer was used (or none), or when paint was applied in high humidity. The fix is the same: remove the failed coat back to sound paint and redo the prep.
+
+## Preventing peeling long-term
+
+- **Ventilate moisture rooms.** An exhaust fan on a timer switch (runs 20–30 minutes after you leave) is the single best bathroom-paint protector.
+- **Caulk before you paint.** Seal gaps around windows, trim, and fixtures first — water entry behind paint is a top peeling cause on exterior-facing walls.
+- **Do not paint over chalky surfaces.** Old exterior or garage paint gets chalky with age; wipe your hand across it — if white powder comes off, wash with TSP substitute before priming or the new paint bonds to dust instead of the wall.
+- **Respect recoat times.** Every can lists them. Painting the second coat too soon traps solvents and weakens adhesion — the most common DIY cause of peeling within months.
 
 ## When to call a pro
 
