@@ -4,10 +4,20 @@ date: 2026-10-04
 description: "A toilet that clogs constantly usually has a weak flush, a partial blockage, or the wrong things going down it. Diagnose and fix recurring clogs."
 featured: "/images/toilet-clogging-fix.jpg"
 draft: false
-weight: -1
 ---
 
 An occasional clog happens to everyone. But a toilet that clogs every week has an underlying problem — and it is rarely "bad luck." The usual suspects: a weak flush that cannot clear the bowl, a partial blockage lodged in the trap, or non-flushable items going down. Work through the causes in order.
+
+## How a toilet flush works (why clogs happen)
+
+A toilet clears waste with siphon physics, not just water volume:
+
+1. Water rushes from the tank into the bowl through the **rim jets** (around the rim) and the **siphon jet** (at the bottom front).
+2. The inrushing water fills the bowl faster than the trapway can drain it, raising the water level.
+3. Once water spills over the trapway's high point, a **siphon** starts — the full trapway of water gets pulled down by gravity, dragging waste with it.
+4. The siphon breaks when air enters, the bowl refills to its normal level, and the trap reseals.
+
+A clog breaks this chain anywhere: a partial blockage narrows the trapway so the siphon never fully develops, or weak rim jets do not deliver water fast enough to start the siphon. That is why "weak flush" and "partial blockage" are really the same problem — insufficient siphon action.
 
 ## Quick diagnosis: what kind of clogging?
 
@@ -97,6 +107,23 @@ Yes — if you are on septic and multiple drains are slow, the tank may need pum
 
 **How do I prevent clogs?**
 Toilet paper only, fix weak flushes promptly, and keep a flange plunger and auger on hand. Teach the household what not to flush.
+
+**Why does the water rise almost to the rim before draining?**
+That is the classic partial-blockage signature. Water can get past the obstruction but slowly — the bowl fills faster than it drains. Plunge or auger before it becomes a full blockage.
+
+**My toilet gurgles — is that related?**
+Gurgling means air is trapped by a partial blockage or a venting problem. If plunging does not fix it and other drains gurgle too, the vent stack may be blocked — that is plumber territory.
+
+## If you have an old toilet: the replacement case
+
+Sometimes the real fix is a new toilet. Consider replacement when:
+
+- It is a 1990s-era 1.6 gpf model with a chronically weak flush — early low-flow designs were notoriously bad.
+- You have replaced the flapper, cleaned the jets, adjusted the water level, and it still clogs monthly.
+- The porcelain is stained, cracked, or the base rocks.
+- You are already calling a plumber for the third time this year — the service calls cost more than a new toilet.
+
+Modern 1.28 gpf toilets with improved trapway design (look for MaP Premium rated models) flush better than old 3.5-gallon toilets while using a third of the water. A $250 toilet plus $150–$250 install ends the clog cycle permanently.
 
 ## When to call a pro
 
