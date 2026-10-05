@@ -8,6 +8,14 @@ draft: false
 
 A window that has been painted shut is sealed by layers of dried paint bridging the gap between the moving sash and the frame. Forcing it risks cracked glass, a broken sash, or a pulled-out frame. The fix is methodical: cut the paint seal on every edge, break the bond gently, and work the sash free. Patience beats force every time.
 
+## Why windows get painted shut (and why force fails)
+
+Paint forms a surprisingly strong adhesive bond — each coat adds to it, and old oil-based paint is essentially glue. A window painted shut 20 years ago may have 5+ coats bridging the sash-frame gap, creating a bond stronger than the wood itself in places.
+
+Force fails because the load path goes through the weakest link: push hard on a stuck sash and the glass (the most fragile part) takes the stress, or the thin sash stile splits along the grain. Cutting the bond eliminates the resistance instead of fighting it — that is why a sharp knife beats a strong arm.
+
+**The hidden second seal:** most people score the inside seam and wonder why the window still will not move. Paint also bridges the exterior seam, the meeting rail between sashes, and often the parting bead. Every bridged seam must be cut. Walk around the house and do the outside — it is the step everyone skips.
+
 ## Quick diagnosis: why is it stuck?
 
 - **Painted shut** → you can see paint bridging the sash-to-frame seam. See Steps 1–3.
@@ -96,6 +104,20 @@ Tell them explicitly, and check before the paint dries. A good painter masks the
 
 **Is it worth restoring old wood windows vs. replacing?**
 Old-growth wood windows, properly restored with weatherstripping, perform comparably to mid-range replacements and last far longer. Full replacement runs $500–$1,000+ per window installed — restoration is usually the better value unless the wood is rotted.
+
+**How long does it take to unstick a window?**
+About 30–60 minutes per window once you have the technique — most of it careful scoring. The first window takes longest; by the third you will be fast. Do not rush: the time is in the cutting, not the forcing.
+
+**Should I remove the storm window first?**
+Yes — if there is an exterior storm window, remove it for access to the outer sash seam. Label the storm panels so they go back in the right openings.
+
+## After it is free: tune-up checklist
+
+1. **Sand the sash edges lightly** where paint built up — just enough to remove the ridge, not bare wood.
+2. **Wax every sliding surface** — sash sides, meeting rail, and channels. Paraffin or candle wax, rubbed on generously.
+3. **Check the weatherstripping.** Old windows often have none — adhesive V-strip weatherstripping ($5 per window) dramatically cuts drafts once the window operates.
+4. **Test full travel** — the sash should move top to bottom without binding. If it binds at one spot, mark it, remove the sash, and plane or sand that high spot.
+5. **Repaint correctly:** paint the sash with the window open, let it dry, then close. Never bridge the gap with wet paint.
 
 ## When to call a pro
 
