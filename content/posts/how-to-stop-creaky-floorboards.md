@@ -8,6 +8,17 @@ draft: false
 
 Creaky floors are caused by movement — wood rubbing against a nail, a subfloor panel flexing against a joist, or two boards grinding together. The sound is just friction. Find where the movement is, stop the movement, and the creak stops. Most squeaks are fixed in under an hour with basic tools.
 
+## Why floors squeak (the mechanics)
+
+Every squeak is wood moving against something it should not move against:
+
+- **Subfloor vs. joist:** the most common. The subfloor panel was nailed to the joist during construction; decades of seasonal expansion and contraction work the nails loose, and now the panel flexes up and down, rubbing the nail shank.
+- **Board vs. board:** hardwood floorboards shrink in dry air, opening gaps. When you step, adjacent boards rub edges.
+- **Fastener failure:** the original nails have backed out slightly — the head no longer holds the wood tight, so the board pivots on the nail.
+- **Missing adhesive:** modern construction glues subfloor to joists; older homes relied on nails alone. No glue = more movement = more squeaks over time.
+
+Knowing which one you have determines the fix — but honestly, the screw-into-joist method fixes the first three in one shot.
+
 ## Quick diagnosis: find the exact squeak
 
 1. **Walk the floor slowly** and mark each squeak with painter's tape.
@@ -88,6 +99,19 @@ Yes — Fix 1 (screwing from above into the joist) and Fix 3 (carpet kit) both w
 
 **My stairs squeak — same fix?**
 Similar principle: the tread rubs the riser. From below, glue and screw small wood blocks (glue blocks) into the tread-riser corner. From above, drive screws through the tread into the riser at an angle.
+
+**Can squeaks mean a serious problem?**
+Usually not — most squeaks are just annoying. But pay attention if a squeak appears suddenly along with sagging, softness, or visible water stains. Those point to subfloor rot, a cracked joist, or termite damage, all of which need prompt professional attention before they get expensive.
+
+**Is it worth fixing squeaks before selling a house?**
+Absolutely. Squeaky floors are one of the first things buyers notice during a showing, and they subconsciously signal poor maintenance. An hour with a screw kit removes a common buyer objection for under $30.
+
+## Preventing future squeaks
+
+- **Control humidity year-round.** Keep indoor humidity at 35–45% with a humidifier in winter. Stable moisture means stable wood — fewer gaps, fewer squeaks.
+- **Screw, do not nail, any new subfloor work.** If you ever have flooring replaced, insist the installer uses screws and construction adhesive on the subfloor. It costs slightly more and prevents squeaks for decades.
+- **Address water immediately.** Any plumbing leak or spill that reaches the subfloor should be dried fast — swollen then shrunken subfloor is a future squeak factory.
+- **Re-check annually.** Walk the house once a year and hit new squeaks early with a screw before they worsen.
 
 ## When to call a pro
 
