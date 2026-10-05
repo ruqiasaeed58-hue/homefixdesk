@@ -8,6 +8,19 @@ draft: false
 
 A dryer that spins but produces no heat turns laundry day into an all-day affair. The good news: most no-heat problems are airflow issues or inexpensive parts — not a dead dryer. Work through these checks in order before calling for service.
 
+## Why dryers stop heating (the common chain of failure)
+
+Most no-heat problems follow the same chain reaction:
+
+1. **Lint restricts airflow** — the vent, filter, or duct gets clogged.
+2. **Heat builds up** inside the dryer because it cannot exhaust.
+3. The **thermal fuse blows** to prevent a fire — cutting heat entirely.
+4. Or the **heating element overheats and breaks** from running too hot.
+
+This is why Step 1 (airflow) comes first: replacing the fuse or element without clearing the vent just starts the chain over. Fix the cause, then the symptom.
+
+**The fire angle is real:** the US Fire Administration attributes about 2,900 dryer fires per year to lint buildup. A dryer that takes two cycles to dry clothes is not just annoying — it is a warning.
+
 ## Quick diagnosis: what are the symptoms?
 
 - **Tumbles, no heat at all, runs full cycle** → thermal fuse blown or heating element failed. See Steps 2–3.
@@ -90,6 +103,20 @@ Likely failing gas valve coils (gas dryer) or a thermostat issue. Electric dryer
 
 **How often should I clean the dryer vent?**
 The lint filter every load; the full vent run at least once a year (twice if you do a lot of laundry or have pets).
+
+**Why is my dryer hot on the outside?**
+Excessive exterior heat means hot air is not exhausting properly — classic vent blockage. The heat that should leave through the vent is soaking into the cabinet instead. Clean the vent before the thermal fuse blows (or worse).
+
+**My dryer shuts off mid-cycle — related?**
+Often yes. Overheating from blocked airflow trips the thermal fuse or the motor's thermal protector, shutting the dryer down mid-cycle. Same fix: clear the vent, then test/replace the fuse.
+
+## Venting done right (prevents repeat problems)
+
+- **Use rigid metal duct** — smooth interior, minimal lint trapping. Semi-rigid is acceptable; vinyl and foil-accordion are not.
+- **Keep runs short and straight.** Every 90° bend equals 5 feet of straight duct in airflow resistance. Long, twisty vent runs are chronic problem sources.
+- **Vent outside, never into the attic or crawlspace.** Dumping warm moist air into enclosed spaces grows mold and rots wood.
+- **The exterior cap matters.** A cap with a flapper that opens freely and keeps pests out. Check it yearly — birds love dryer vents.
+- **Consider a vent alarm.** A $20 pressure sensor that alerts when airflow drops — cheap insurance against the slow lint buildup you do not notice.
 
 ## When to call a pro
 
