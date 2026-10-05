@@ -8,6 +8,16 @@ draft: false
 
 A front door that sticks, drags on the floor, or refuses to latch is more than an annoyance — it is a security problem and an energy leak. The cause is almost always one of three things: loose or worn hinges, seasonal wood swelling, or a shifted frame. Each has a distinct signature and a distinct fix.
 
+## Why doors stop closing (the three root causes)
+
+A door is a heavy slab hanging on two or three small hinges, expected to align with a strike plate to 1/16-inch precision. Three things defeat this:
+
+1. **Gravity + loose hinges:** a 60–100 lb door hanging on screws in soft jamb wood. Over years, the top hinge screws loosen and the door rotates down on the latch side — the classic sag. The top hinge carries almost all the weight; when it fails, the door drops.
+2. **Moisture cycling:** wood expands across the grain when it absorbs humidity. A door that fits perfectly in dry winter air can swell 1/8 inch or more in humid summer — enough to bind. Paint slows this but does not stop it, especially on unsealed edges.
+3. **House movement:** foundations settle, framing shrinks, and door frames rack out of square over decades. The reveal (gap around the door) tells the story — uneven reveals mean the frame moved, not the door.
+
+Diagnose in order: hinges first (most common, easiest), swelling second (seasonal pattern), frame third (uneven reveal).
+
 ## Quick diagnosis: what exactly is wrong?
 
 - **Door sticks or rubs at the top** → the top hinge is loose or the door is sagging. See Steps 1–2.
@@ -96,6 +106,21 @@ The floor raised the threshold. You may need to trim the bottom of the door — 
 
 **How do I know if the frame itself shifted?**
 Check the reveal (the gap around the door). It should be roughly even — about 1/8 inch all around. If the gap is wide at the top on one side and tight at the bottom on the other, the frame racked and may need a carpenter to re-square it.
+
+**Why won't my door latch in winter but latches fine in summer?**
+The reverse of the usual swelling pattern — in this case the house framing shrinks in dry winter air, shifting the strike plate alignment slightly. A small strike plate adjustment (filing the opening) usually covers both seasons.
+
+**Should I replace the hinges entirely?**
+If the hinges are visibly worn (loose pins, bent leaves) or undersized for the door weight, yes — upgrade to ball-bearing hinges rated for exterior doors ($10–$20 each). They last decades longer than cheap builder hinges and support heavy doors better.
+
+## Weatherstripping and energy (while you are at it)
+
+A door that does not close properly leaks air — fixing the alignment is also an energy fix:
+
+1. **Check the weatherstripping** once the door closes properly. Compressed or torn weatherstripping defeats the whole repair.
+2. **The dollar-bill test:** close the door on a dollar bill at several points. If it pulls out easily, air leaks there too.
+3. **Adjust the threshold.** Most thresholds have adjustable screws — raise it until it just kisses the door bottom sweep.
+4. **Replace the door sweep** if it is worn — a $10 part that blocks the biggest air gap.
 
 ## When to call a pro
 
