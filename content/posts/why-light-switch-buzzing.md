@@ -4,10 +4,18 @@ date: 2026-10-04
 description: "A buzzing light switch is usually a dimmer/bulb mismatch or a loose wire. Find out which one you have — and when buzzing means danger."
 featured: "/images/buzzing-light-switch-fix.jpg"
 draft: false
-weight: -3
 ---
 
 A faint buzz from a light switch is common — but it is never something to ignore outright, because the same symptom ranges from "harmless dimmer hum" to "loose wire arcing inside the wall." This guide helps you tell the difference and fix the benign causes.
+
+## Why dimmers buzz (the physics)
+
+A dimmer does not lower voltage like a volume knob — it chops the AC power waveform, switching the current on and off 120 times per second. Each chop creates a tiny mechanical vibration in:
+
+- **The dimmer's internal coil/inductor** — the copper windings physically vibrate with each pulse.
+- **The bulb filament (incandescent) or driver (LED)** — the filament or electronic driver resonates with the chopped waveform.
+
+At full brightness the waveform is barely chopped, so there is little to vibrate. At mid-dim levels the chopping is most aggressive — which is why buzzing peaks around 50% brightness. This is normal physics, not a defect — but a well-matched modern dimmer + bulb combination vibrates so little you cannot hear it.
 
 ## Quick diagnosis: what kind of buzz?
 
@@ -16,7 +24,7 @@ A faint buzz from a light switch is common — but it is never something to igno
 - **Buzz from a regular (non-dimmer) switch** → loose wire connection — potentially dangerous. See Step 2.
 - **Buzz plus warmth, crackling, or a burning smell** → stop using it and call an electrician now. See the warning below.
 
-## When buzzing is dangerous
+## ⚠️ When buzzing is dangerous
 
 Call an electrician immediately (and stop using the switch) if you notice ANY of these:
 
@@ -89,6 +97,20 @@ A loose connection arcing inside the box can — that is why heat, crackling, an
 
 **Should I replace all my old dimmers?**
 If they buzz with LED bulbs, yes — modern LED-rated dimmers are $20–$35, install in 15 minutes, and eliminate both the buzz and the flicker.
+
+**Why does my dimmer buzz more at certain brightness levels?**
+Buzzing peaks at mid-dim levels where the waveform chopping is most aggressive. If it is quiet at full brightness and loudest around 50%, that is textbook dimmer physics — a compatibility issue, not a wiring fault.
+
+**Can a smart dimmer buzz?**
+Yes — smart dimmers use the same phase-chopping technology, plus their internal electronics can add a faint high-pitched whine. The same compatibility rules apply: match the dimmer to LED-rated bulbs on the manufacturer's compatibility list.
+
+## How to choose the right replacement dimmer
+
+1. **Check the bulb type first.** Count your bulbs and note: LED, CFL, incandescent, or mixed. Buy a dimmer rated for what you actually have.
+2. **Use the manufacturer's compatibility list.** Major dimmer makers publish tested bulb lists — a 2-minute check prevents the buy-return cycle.
+3. **Mind the minimum load.** A dimmer rated 150W for LED with a 25W minimum will buzz driving a single 9W bulb. Match the load range, not just the maximum.
+4. **Consider "trailing edge" (ELV) dimmers for LEDs.** They chop the waveform more gently than old leading-edge dimmers and run quieter with LED drivers.
+5. **Three-way setups need compatible companions.** If two switches control one light, the companion switch must match the dimmer — mismatched pairs buzz and misbehave.
 
 ## When to call a pro
 
