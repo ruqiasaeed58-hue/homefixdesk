@@ -8,6 +8,17 @@ draft: false
 
 A dripping faucet is almost always caused by a worn-out internal seal — a cartridge in single-handle faucets, or a rubber washer in older two-handle faucets. The fix takes about 30 minutes, costs under $25 in parts, and stops the drip that can waste over 3,000 gallons of water per year.
 
+## Why faucets drip (what actually wears out)
+
+Every faucet seals water with the same basic principle: a soft material pressed against a hard seat. The drip starts when that seal degrades:
+
+- **Rubber washers harden** — years of hot water and chlorine make rubber brittle. A hardened washer no longer compresses to seal, so water seeps past.
+- **Cartridges wear** — the ceramic discs or rubber seals inside a cartridge develop micro-scratches from mineral grit in the water. Each scratch is a tiny channel for water.
+- **O-rings flatten** — the round profile compresses permanently over time (called "compression set"), leaving gaps.
+- **Valve seats corrode** — the brass seat the washer presses against pits from mineral-laden water. A pitted seat chews up new washers fast.
+
+This is why "just tighten it harder" fails: you are crushing an already-dead seal against a possibly damaged seat. Replacement is the only real fix.
+
 ## Quick diagnosis: what kind of faucet do you have?
 
 **One handle** (lever or knob controlling both hot and cold)? You have a **cartridge faucet**. The drip is coming from a worn cartridge — a single replaceable unit.
@@ -80,6 +91,19 @@ Usually yes — that is a worn O-ring on the spout base (common on single-handle
 
 **How do I know the valve seat is damaged?**
 If a brand-new washer still drips, run your fingertip around the metal seat inside the faucet body. A rough or grooved seat needs re-seating with a cheap valve-seat wrench, or the faucet needs replacing.
+
+**Should I repair or replace the whole faucet?**
+Repair if: the faucet is under 10 years old, the finish is good, and it is a single failed seal. Replace if: the faucet is 15+ years old, the finish is corroded, you have repaired it before and it drips again, or parts are discontinued. A decent new faucet is $50–$150 — sometimes cheaper than repeated part hunts.
+
+**Why does my new cartridge still drip?**
+Three possibilities: the cartridge is not seated fully (remove and reinstall, checking orientation), debris on the valve seat (flush the line before installing), or the wrong cartridge model (even close-looking cartridges differ by millimeters — match the exact part number).
+
+## Extending faucet life
+
+- **Clean aerators quarterly.** Unscrew the aerator, soak it in vinegar for an hour, scrub, and reinstall. Mineral-clogged aerators increase back-pressure that stresses internal seals.
+- **Exercise the shut-off valves.** Turn under-sink valves off and on once a year so they do not freeze in place — you need them working for the next repair.
+- **Soften hard water.** If your area has very hard water, a softener dramatically extends the life of every rubber seal and cartridge in the house.
+- **Fix drips promptly.** A small drip becomes a scored valve seat over months — the $5 fix becomes a $150 faucet replacement if you wait.
 
 ## When to call a plumber
 
