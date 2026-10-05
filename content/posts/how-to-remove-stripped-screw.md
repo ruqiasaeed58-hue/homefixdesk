@@ -2,12 +2,22 @@
 title: "How Do I Remove a Stripped Screw?"
 date: 2026-10-04
 description: "A stripped screw head won't grip your driver. Try these methods in order — from the rubber band trick to screw extractors — and get it out."
-featured: "/images/stripped-screw-removal-fix.jpg?v=2"
+featured: "/images/stripped-screw-removal-fix.jpg"
 draft: false
-weight: -2
 ---
 
 A stripped screw head — the cross or slot worn smooth so your driver just spins — stops a project cold. Do not keep grinding at it with the same bit; that only makes it worse. Work through these methods from gentlest to most aggressive. One of them will get it out.
+
+## Why screws strip (and how to stop before it gets worse)
+
+A driver bit grips a screw head through precise contact — the bit's shape matches the recess exactly. Stripping destroys that match:
+
+- **Cam-out:** the bit slips out of the recess under torque, grinding the edges round. Phillips heads are designed to cam out at high torque (to prevent overdriving); the trade-off is they strip easily.
+- **Wrong bit:** a #1 bit in a #2 recess contacts only the tips — it spins and reams the head smooth.
+- **Worn bit:** old bits have rounded edges that no longer match the recess. They feel like they fit but slip under load.
+- **Soft screws:** cheap zinc screws strip far easier than hardened steel. The $2 box of screws costs more in stripped heads than quality screws do.
+
+**The critical rule:** the moment the bit slips twice, STOP. Every additional slip removes more metal and closes off the easier removal methods. Switch to a fresh bit, add downward pressure, or move to the next method below.
 
 ## Quick diagnosis: how stripped is it?
 
@@ -99,6 +109,23 @@ Penetrating oil (not WD-40 — use a real penetrating oil), patience (wait 15+ m
 
 **What if the extractor breaks inside the screw?**
 A broken extractor is extremely hard to drill (it is harder than drill bits). At that point, options are: drill around it and plug the hole, or relocate the fastener. Prevention — slow speed, oil, no forcing — matters more than cure here.
+
+**Can I use an impact driver to remove a stripped screw?**
+Carefully, yes — an impact driver with a fresh, correct bit and strong downward pressure can shock a mildly stripped screw loose. But on a badly stripped head, the impacts just ream it smoother. Try it once with a new bit; if it slips, stop and switch to the extractor.
+
+**What about stripped hex (Allen) screws?**
+Same principles: try a slightly larger metric/SAE hex key tapped in with a hammer, or a Torx bit hammered into the rounded hex recess — the star shape bites where the hex slipped. Then extract normally.
+
+## Method selection: quick reference
+
+| Situation | Start with | If that fails |
+|---|---|---|
+| Bit still catches slightly | Fresh correct bit + pressure | Rubber band / steel wool |
+| Head smooth, small screw | Screw extractor | Left-hand drill bit |
+| Head smooth, large screw | Cut new slot (rotary tool) | Extractor |
+| Head protrudes | Locking pliers | Cut slot, then pliers |
+| Head broken off | Pliers on shank | Drill out completely |
+| Rusted/seized | Penetrating oil + wait, then extractor | Heat + extractor |
 
 ## When to call a pro
 
