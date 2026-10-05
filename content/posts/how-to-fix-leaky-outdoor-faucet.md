@@ -4,10 +4,20 @@ date: 2026-10-04
 description: "A dripping hose bib wastes water and can freeze-burst in winter. Replace the washer or packing — or upgrade to a frost-free sillcock."
 featured: "/images/leaky-outdoor-faucet-fix.jpg"
 draft: false
-weight: -4
 ---
 
 An outdoor faucet (hose bib) that drips constantly wastes hundreds of gallons over a summer — and in cold climates, a leaking hose bib can freeze, burst the pipe inside the wall, and flood the house. The fix is usually a $2 washer and 20 minutes of work.
+
+## Why outdoor faucets leak (and why they are different from indoor faucets)
+
+Outdoor faucets live a harder life than indoor ones:
+
+- **Freeze-thaw cycles** expand and contract every seal and washer, aging them faster.
+- **UV and weather** degrade rubber washers and plastic handles.
+- **Infrequent use** — a faucet that sits unused for months develops stuck washers and corroded seats. Then the first spring use tears the stuck washer.
+- **Water hammer from hoses** — spray nozzles and kinked hoses create pressure spikes that stress the valve.
+
+The standard hose bib is a simple compression valve: a rubber washer on the end of the stem presses against a brass seat. Turn the handle, the washer lifts, water flows. Turn it off, the washer seats. Every leak traces to this washer-seat interface, the packing around the stem, or (in freezing climates) a cracked body.
 
 ## Quick diagnosis: where is it leaking from?
 
@@ -94,6 +104,22 @@ No. This is the most common misunderstanding. A connected hose traps water in th
 
 **My faucet has low pressure — is it related to the leak?**
 Possibly — a partially failed washer can restrict flow. But low pressure at one outdoor faucet is more often a partially closed interior shutoff valve or a kinked supply line.
+
+**How much water does a dripping hose bib waste?**
+A steady drip (one per second) wastes about 3,000 gallons per year. A faster leak — a thin stream — can waste 10,000+ gallons in a single summer. At average US water rates, that is $30–$150 literally watering the foundation.
+
+**Should I add a shutoff valve if there isn't one?**
+Yes — an interior shutoff valve for each outdoor faucet is one of the highest-value plumbing upgrades. It lets you service the faucet without killing water to the whole house, and it is essential for winterizing. A plumber installs one in under an hour ($100–$200).
+
+## Spring startup checklist
+
+Outdoor faucets need attention every spring after winter:
+
+1. **Inspect for freeze damage** before turning the water on — look for cracks in the faucet body and handle.
+2. **Turn the interior valve on slowly** and check inside the house for leaks at the pipe.
+3. **Open the outdoor faucet** and check flow and drips. Replace the washer now if it drips — it only gets worse.
+4. **Check the vacuum breaker** — make sure it is intact and not spraying.
+5. **Reconnect hoses** only after confirming no leaks, and check hose washers (the #1 source of hose-connection drips).
 
 ## When to call a pro
 
