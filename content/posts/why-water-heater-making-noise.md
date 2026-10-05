@@ -8,6 +8,17 @@ draft: false
 
 A water heater that pops, rumbles, or bangs is telling you something: sediment has built up inside the tank. The noise is water trapped under mineral deposits, flashing to steam and rumbling through the sediment layer. It is the most common water heater complaint — and the fix is maintenance most homeowners never do.
 
+## Why sediment causes noise (the physics)
+
+The popping and rumbling is not the sediment itself making noise — it is trapped water:
+
+1. Dissolved minerals (mostly calcium and magnesium) precipitate out of heated water and settle on the tank bottom as sediment.
+2. The burner or element heats the sediment layer. Water trapped *under* and *within* the sediment flashes to steam.
+3. Steam bubbles force their way up through the sediment — the popping sound is literally mini steam explosions under a mineral crust.
+4. The sediment also insulates the tank bottom, so the burner runs longer and hotter to heat the water above — more noise, more energy waste, more tank stress.
+
+In gas heaters the effect is worse: the flame overheats the sediment-caked tank bottom, creating hot spots that weaken the steel. This is how sediment kills water heaters — not just noise, but premature tank failure.
+
 ## Quick diagnosis: what kind of noise?
 
 - **Popping or crackling** → sediment layer on the tank bottom; water bubbles up through it. See Step 1.
@@ -94,6 +105,24 @@ Usually yes — popping and rumbling from sediment stops once the sediment is ou
 
 **Is the popping dangerous?**
 The noise itself is not immediately dangerous, but heavy sediment makes the tank work harder, wastes energy, and accelerates tank failure. Treat it as an early warning, not background noise.
+
+**Why is my energy bill higher with a noisy heater?**
+Sediment is an insulator. A half-inch of sediment can reduce heating efficiency by 30–50% — the burner runs much longer to deliver the same hot water. Flushing typically cuts the gas/electric water-heating cost noticeably within the first month.
+
+**Can I prevent sediment without annual flushing?**
+A whole-house water softener dramatically reduces sediment formation. Alternatively, a powered (impressed-current) anode rod reduces the corrosion particles that contribute to sediment. But neither eliminates the need for flushing entirely — annual flushing is still the gold standard.
+
+## The 15-minute annual maintenance routine
+
+Put it on your calendar — this prevents noise, extends tank life, and cuts energy bills:
+
+1. **Flush the tank** (Step 1 above) — 30 minutes once a year.
+2. **Test the pressure relief valve** — lift the lever briefly; water should flow out the discharge pipe, then stop completely when released. If it drips afterward, the valve needs replacing ($15).
+3. **Check the anode rod** every 3–5 years (Step 2 above).
+4. **Verify the temperature** is at 120°F — check with a thermometer at the tap.
+5. **Look for leaks** around the base, fittings, and the relief valve discharge pipe.
+
+Total annual time: under an hour. Total savings: years of tank life and hundreds in energy.
 
 ## When to call a pro
 
