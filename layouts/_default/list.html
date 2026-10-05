@@ -3,7 +3,12 @@
   <nav class="crumbs"><a href="/">Home</a> <span>/</span> {{ .Title }}</nav>
   <h1>{{ .Title }}</h1>
   {{ with .Content }}<div class="page-intro">{{ . }}</div>{{ end }}
-  <div class="cards">
+  {{ if eq .Section "posts" }}
+  <div class="filter-row">
+    <input type="search" id="posts-filter" placeholder="Filter answers — try &ldquo;mold&rdquo;" autocomplete="off" aria-label="Filter answers">
+  </div>
+  {{ end }}
+  <div class="cards" id="posts-cards">
   {{ range .Pages.ByDate.Reverse }}
     <a class="card" href="{{ .RelPermalink }}">
       {{ with .Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></picture>{{ end }}
@@ -15,5 +20,6 @@
     </a>
   {{ end }}
   </div>
+  <p class="filter-nohit" id="filter-nohit" hidden>No answers match your filter — try a shorter word like “faucet” or “mold”.</p>
 </div>
 {{ end }}
