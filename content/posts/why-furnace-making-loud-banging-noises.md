@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "A loud bang from your furnace on startup usually means delayed ignition — gas building up before it lights. Learn the 6 furnace noises, which ones are dangerous, and when to call a pro."
 featured: "/images/why-furnace-making-loud-banging-noises.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 A loud **bang or boom when your furnace starts up** is most often delayed ignition: gas flows into the combustion chamber but doesn't light right away, so unburned gas builds up and ignites all at once. A sharp bang every cycle needs a service call soon, before the repeated shockwaves crack the heat exchanger — and a cracked one can leak carbon monoxide (CO) into your home.

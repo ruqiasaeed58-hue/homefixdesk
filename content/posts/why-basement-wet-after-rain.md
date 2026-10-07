@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "A wet basement after rain usually traces to gutters, downspouts, and grading — not a failing foundation. Learn to read the entry point, fix cracks for $250-800, and know when to call a structural engineer."
 featured: "/images/why-basement-wet-after-rain.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 Your basement gets wet after rain because water is collecting against the foundation faster than it can drain away. In most cases the cause is not a failing foundation or a high water table — it's **roof water and surface runoff delivered straight to the wall by clogged gutters, short downspouts, and grading that slopes toward the house.** Fixing those three outside issues resolves most wet basements, and each is cheap or free.

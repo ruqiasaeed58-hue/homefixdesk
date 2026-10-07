@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "Clean the lint screen after every load and deep-clean the vent run every 6-12 months. Clogged vents cause ~2,900 US dryer fires a year — learn the schedule, warning signs, and DIY steps."
 featured: "/images/how-often-to-clean-dryer-vent.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 **Clean your lint screen after every single load, and deep-clean the full vent run every 6 to 12 months.** That's the short answer — and for fire safety, the lint screen habit matters as much as the annual vent cleaning. A clogged dryer vent is the single most common cause of clothes-dryer fires in American homes, yet it's one of the easiest maintenance tasks to stay ahead of.

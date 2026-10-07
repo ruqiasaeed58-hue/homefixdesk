@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Tannins in wet leaves stain concrete fast in fall. Act quickly with a stiff brush and oxygen bleach — and prevent next year's stains with a sealer."
 featured: "/images/leaf-stains-fix.jpg"
 draft: false
+tags: ["exterior"]
 ---
 
 Those brown, ghostly leaf outlines on your driveway are not dirt — they are tannin stains, and they set fast. Wet autumn leaves leach natural tannins (the same compounds that stain tea cups) into porous concrete, and within days the stain bonds below the surface where a hose cannot reach it. The good news: fresh stains come up easily with basic cleaning, and even set-in stains yield to oxygen bleach and a stiff brush. And once you have the driveway clean, a single coat of sealer prevents next fall's leaves from staining at all.

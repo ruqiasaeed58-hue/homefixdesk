@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Covering your AC seems protective — but a full cover traps moisture, invites mice, and can void warranties. Here's what HVAC pros actually recommend."
 featured: "/images/should-i-cover-ac-unit-winter.jpg"
 draft: false
+tags: ["winter"]
 ---
 
 The short answer: **no, don't fully cover your air conditioner for winter.** It feels like the protective thing to do, but a full cover traps moisture against the metal, accelerates rust and corrosion, and creates a cozy shelter for mice that love chewing wires. Most HVAC manufacturers don't require covers, and some will even void the warranty if a cover caused the damage. What actually protects your condenser is much simpler — and mostly free.

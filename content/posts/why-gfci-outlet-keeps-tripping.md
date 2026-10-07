@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A GFCI trips to protect you from ground faults. Unplug everything, let it dry, press RESET, then plug items back one at a time to find the faulty appliance. Warm cover plate or burning smell = call an electrician."
 featured: "/images/why-gfci-outlet-keeps-tripping.jpg"
 draft: false
+tags: ["electrical"]
 ---
 
 A GFCI that keeps tripping is doing its job — detecting a ground fault, a leak of current that could shock you. Unplug everything on that circuit, let any moisture dry out, press RESET firmly, then plug items back in one at a time until the trip returns. The item that causes the trip is the culprit. If it won't reset with nothing plugged in, the outlet itself has likely worn out.

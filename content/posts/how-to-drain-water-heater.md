@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Sediment buildup makes water heaters noisy and inefficient. Draining it once a year takes 30 minutes — here's the full safe process."
 featured: "/images/how-to-drain-water-heater.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 If your water heater rumbles, pops, or crackles when it heats up, that's **sediment** — minerals from your water that have settled into a crusty layer at the bottom of the tank. Draining the tank once a year flushes that sediment out, which quiets the noise, restores efficiency, and can add years to the heater's life. The whole job takes about **30 minutes of actual work** (plus draining time), one garden hose, and no special skills.

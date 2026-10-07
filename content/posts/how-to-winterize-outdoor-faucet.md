@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A frozen hose bib can burst inside the wall and flood the house. Shut off the interior valve, drain the line, and insulate the spout before the first hard freeze."
 featured: "/images/winterize-faucet-fix.jpg"
 draft: false
+tags: ["plumbing", "winter", "interior"]
 ---
 
 To winterize an outdoor faucet, disconnect every garden hose, shut off the interior valve feeding the faucet, open the outdoor spigot to drain the line, drain the bleeder cap on the interior valve, and leave the outdoor handle open for winter — then slip on a foam faucet cover. The whole job takes about 10 minutes per faucet and prevents the most common freeze-burst flooding homeowners face: a split pipe inside the wall that you don't discover until spring.

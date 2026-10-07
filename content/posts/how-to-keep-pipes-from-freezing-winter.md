@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "An eighth-inch crack from a burst pipe can leak 250 gallons a day. Insulate exposed runs, seal the drafts around them, and drip faucets on the coldest nights."
 featured: "/images/pipes-freeze-fix.jpg"
 draft: false
+tags: ["plumbing", "winter"]
 ---
 
 To keep pipes from freezing, insulate every exposed run in cold zones (crawl spaces, attics, garages, exterior walls), seal the drafts around them, and drip the faucets they serve when temperatures drop into the teens or below. Keep the thermostat at 55°F or higher when you're away, and open cabinet doors on exterior walls so warm air reaches the pipes. A few hours of prevention beats a flooded basement.

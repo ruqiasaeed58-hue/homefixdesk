@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A buzzing light switch is usually a dimmer/bulb mismatch or a loose wire. Find out which one you have — and when buzzing means danger."
 featured: "/images/buzzing-light-switch-fix.jpg"
 draft: false
+tags: ["electrical"]
 ---
 
 A faint buzz from a light switch is common — but it is never something to ignore outright, because the same symptom ranges from "harmless dimmer hum" to "loose wire arcing inside the wall." This guide helps you tell the difference and fix the benign causes.

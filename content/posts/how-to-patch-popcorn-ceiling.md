@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Patch a damaged popcorn ceiling so the repair blends in — including the critical asbestos test for pre-1980s ceilings."
 featured: "/images/popcorn-ceiling-patch-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 Popcorn (acoustic) ceilings hide imperfections well — which is good news when you need to patch one. A small damaged area can be repaired so it nearly disappears. But there is one critical rule: if your home was built before the 1980s, test for asbestos before you touch the texture.

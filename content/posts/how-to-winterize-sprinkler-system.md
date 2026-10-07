@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Leftover water in sprinkler lines freezes, expands, and cracks pipes and heads. Shut off the supply, drain or blow out each zone, and protect the backflow preventer before the first hard freeze."
 featured: "/images/sprinkler-winterize-fix.jpg"
 draft: false
+tags: ["winter", "exterior"]
 ---
 
 To winterize a sprinkler system, shut off the water supply to the irrigation line, turn the controller to **off or rain mode**, drain every zone using one of three methods (manual drain, automatic drain, or a compressor blowout), and protect the backflow preventer. Do it **before the first hard freeze** — once water trapped in those shallow lines freezes, it expands about 9% and cracks pipes, fittings, and sprinkler heads.

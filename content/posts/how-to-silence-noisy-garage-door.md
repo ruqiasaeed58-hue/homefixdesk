@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Grinding, squeaking, or rattling garage doors usually need lubrication, tightened hardware, or new rollers. Quiet it down step by step."
 featured: "/images/noisy-garage-door-fix.jpg"
 draft: false
+tags: ["interior", "fixtures"]
 ---
 
 A garage door that screeches, grinds, or rattles announces itself to the whole neighborhood — and the noise usually means something is wearing out. The fix is almost always maintenance, not replacement: lubricate the moving parts, tighten the hardware, and replace worn rollers. An hour of work can make a 15-year-old door run like new.

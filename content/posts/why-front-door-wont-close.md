@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A front door that sticks, drags, or won't latch usually has a hinge, swelling, or alignment problem. Diagnose the exact cause and fix it."
 featured: "/images/front-door-wont-close-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A front door that sticks, drags on the floor, or refuses to latch is more than an annoyance — it is a security problem and an energy leak. The cause is almost always one of three things: loose or worn hinges, seasonal wood swelling, or a shifted frame. Each has a distinct signature and a distinct fix.

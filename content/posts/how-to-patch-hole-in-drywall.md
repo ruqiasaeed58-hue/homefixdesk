@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Small nail holes need 5 minutes; medium holes need a patch kit and joint compound. Here's the exact walkthrough for an invisible drywall repair."
 featured: "/images/drywall-patch-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A hole in drywall looks like a disaster but repairs beautifully — even a fist-sized hole can be made invisible in a weekend with a $15 patch kit. The trick is matching the method to the hole size: tiny holes get one treatment, medium holes another, and anything bigger than your hand needs a different approach entirely.

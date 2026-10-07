@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A noisy bathroom fan is usually dust buildup, a worn motor, or a loose housing. Clean it, tighten it, or replace the motor — here's how."
 featured: "/images/loud-exhaust-fan-fix.jpg"
 draft: false
+tags: ["fixtures"]
 ---
 
 Bathroom exhaust fans get louder with age — but "louder than it used to be" is a symptom, not a life sentence. The noise almost always comes from one of three places: dust caked on the fan wheel throwing it off balance, a worn-out motor bearing, or a housing that has worked loose. Most fixes take under an hour.

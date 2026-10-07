@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Condensation on the inside of windows means warm, moist indoor air is hitting cold glass. Lower indoor humidity, ventilate moisture rooms, and warm the glass to stop it."
 featured: "/images/window-condensation-fix.jpg"
 draft: false
+tags: ["winter", "interior"]
 ---
 
 If you wake up on a cold morning to find the insides of your windows beaded with water or iced over at the edges, the cause is simple physics: warm, moisture-laden air in your house is hitting cold glass, and the vapor is turning back into liquid. It is one of the most common winter complaints in American homes, and it is almost always a humidity problem — not a window problem. The good news is that a combination of lowering indoor moisture and warming the glass surface will stop it in most homes without replacing a single window.

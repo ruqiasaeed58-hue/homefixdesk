@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A squeaky hinge just needs the right lubricant in the right place. Here's the 5-minute fix, the pin-removal method for stubborn squeaks, and which lubricants to avoid."
 featured: "/images/squeaky-hinge-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A squeaky door hinge is metal rubbing on metal — the hinge pin grinding against the knuckles as the door swings. The fix is almost embarrassingly simple: the right lubricant, applied in the right place. Five minutes, no disassembly required for most squeaks. For the stubborn ones that keep coming back, the pin-removal method below ends them permanently.

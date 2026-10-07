@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A dryer that tumbles but stays cold usually has a clogged vent, blown thermal fuse, or failed heating element. Troubleshoot it step by step."
 featured: "/images/dryer-not-heating-fix.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 A dryer that spins but produces no heat turns laundry day into an all-day affair. The good news: most no-heat problems are airflow issues or inexpensive parts — not a dead dryer. Work through these checks in order before calling for service.

@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Space heaters cause thousands of fires a year — but they're safe if you follow the rules. The 3-foot rule, what never to plug into, and safer picks."
 featured: "/images/are-space-heaters-safe.jpg"
 draft: false
+tags: ["heating", "safety"]
 ---
 
 It's Fire Prevention Week (Oct 4–10), which is fitting, because no household appliance causes more seasonal fire debate than the space heater. The short answer: **space heaters are safe when you buy the right one and follow a handful of non-negotiable rules** — but they are genuinely one of the most fire-prone devices in an American home. The [National Fire Protection Association](https://www.nfpa.org) reports that home heating equipment causes about **37,365 fires a year** — 11% of all reported home fires — with 417 civilian deaths, 1,260 injuries, and $1.2 billion in property damage annually (2020–2024 averages). Of those, **space heaters and heating stoves are responsible for 47% of the fires, 73% of the deaths, and 70% of the injuries**. Nearly half (46%) of all heating fires happen in December, January, and February.

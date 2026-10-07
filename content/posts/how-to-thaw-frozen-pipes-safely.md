@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Confirm the pipe is frozen, open the faucet, and apply gentle heat from the faucet end backward — never an open flame. Here's the safe thawing method step by step."
 featured: "/images/how-to-thaw-frozen-pipes-safely.jpg"
 draft: false
+tags: ["plumbing", "winter", "safety"]
 ---
 
 You wake up on a freezing morning, turn on the kitchen faucet, and get nothing — or just a weak trickle. Before you panic, here's the good news: **you can thaw frozen pipes safely yourself in most cases**, and doing it the right way takes less than an hour.

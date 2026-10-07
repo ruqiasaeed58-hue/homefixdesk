@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Standing water in your dishwasher? Work this 7-step ladder from outside in: reset the cycle, clean the filter, check the disposal knockout plug. Most fixes are free."
 featured: "/images/why-dishwasher-not-draining.jpg"
 draft: false
+tags: ["plumbing", "appliances"]
 ---
 
 You open the dishwasher and find an inch or two of murky standing water in the bottom. Before you call a repair tech, work this simple rule: **fix it from the outside in**, starting with the easiest, most common causes. The majority of draining problems are solved by steps 1–4 below, cost nothing, and take under 30 minutes.

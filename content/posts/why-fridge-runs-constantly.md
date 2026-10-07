@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A fridge that never cycles off is working too hard — usually dirty coils, bad door seals, or a wrong thermostat setting. Diagnose and fix it."
 featured: "/images/fridge-runs-constantly-fix.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 A refrigerator should cycle on and off throughout the day. If yours runs constantly — humming away 24/7 — it is struggling to maintain temperature. That means higher electricity bills, faster wear on the compressor, and food that may not be as cold as it should be. The causes are usually simple and fixable without a technician.

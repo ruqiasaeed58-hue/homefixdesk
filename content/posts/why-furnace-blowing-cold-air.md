@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Nine times out of ten it's a thermostat setting or a clogged filter. Check fan set to ON vs. AUTO and replace the filter before calling for service."
 featured: "/images/furnace-cold-air-fix.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 Your furnace blowing cold air is almost always one of two things: the **thermostat fan set to ON instead of AUTO** (blowing unheated air between heating cycles), or a **clogged filter** that overheated the furnace and tripped the high-limit safety switch. Both take five minutes to check and cost little or nothing — do those first, then work through this guide.

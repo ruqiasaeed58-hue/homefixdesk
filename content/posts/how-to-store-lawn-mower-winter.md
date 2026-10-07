@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Stabilize the fuel (or run it dry), change the oil, clean the deck, and store it dry — a spring mower that won't start is almost always a winterization skip."
 featured: "/images/lawn-mower-storage-fix.jpg"
 draft: false
+tags: ["winter", "exterior"]
 ---
 
 A lawn mower that refuses to start in April was almost certainly fine in October — it just sat all winter with old gas gumming up the carburetor, moisture rusting the deck, and a battery slowly dying in the cold. Winterizing a mower takes about an hour, costs almost nothing, and is the difference between a mower that fires on the first pull in spring and one that needs a $75 carburetor cleaning. Do it once, the right way, right after your last mow of the season.

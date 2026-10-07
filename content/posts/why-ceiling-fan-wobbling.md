@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A wobbling ceiling fan is usually loose screws, unbalanced blades, or a bent blade bracket. Here's how to diagnose and fix it safely."
 featured: "/images/ceiling-fan-wobble-fix.jpg"
 draft: false
+tags: ["interior", "fixtures"]
 ---
 
 A ceiling fan that wobbles looks alarming — and if it wobbles badly enough, it can loosen its mount over time. But most wobbling has a boring, fixable cause: a loose screw, a blade that got bumped, or normal imbalance. Work through this checklist from easiest to hardest, and the wobble usually disappears.

@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A slow bathroom sink is usually hair and soap scum in the pop-up stopper or P-trap. Here is how to clear it yourself in 20 minutes with basic tools."
 featured: "/images/unclog-bathroom-sink-drain.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A bathroom sink that drains slowly is almost always clogged with hair and soap scum wrapped around the pop-up stopper or sitting in the P-trap — not deep in the pipes. You can clear it yourself in about 20 minutes with no special skills and no chemical drain cleaner.

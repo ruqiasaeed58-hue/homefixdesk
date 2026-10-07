@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A humming garbage disposal usually means the flywheel is jammed — not a dead motor. Here is the 10-minute fix using the reset button and a hex key."
 featured: "/images/garbage-disposal-humming-fix.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 If your garbage disposal hums when you flip the switch but the blades do not spin, the motor is fine — the flywheel is jammed. Something (a bone fragment, a bottle cap, fibrous food) is wedged between the impellers and the grind ring. The fix takes about 10 minutes with a hex key and costs nothing.

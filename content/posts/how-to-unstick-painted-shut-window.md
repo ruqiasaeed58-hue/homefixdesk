@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Windows painted shut are sealed by dried paint bridging the sash and frame. Score the paint line, break the seal, and free the window without breaking glass."
 featured: "/images/painted-shut-window-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A window that has been painted shut is sealed by layers of dried paint bridging the gap between the moving sash and the frame. Forcing it risks cracked glass, a broken sash, or a pulled-out frame. The fix is methodical: cut the paint seal on every edge, break the bond gently, and work the sash free. Patience beats force every time.

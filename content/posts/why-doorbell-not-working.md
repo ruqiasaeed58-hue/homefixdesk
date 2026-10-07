@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A dead doorbell is usually the button, the transformer, or the chime. Test each part in order — most fixes cost under $20."
 featured: "/images/broken-doorbell-fix.jpg"
 draft: false
+tags: ["electrical", "interior"]
 ---
 
 A doorbell that stopped working is almost never a wiring-in-the-wall problem. Wired doorbells have just three parts — the button, the transformer, and the chime — and they fail in a predictable order. Test them in sequence and you will find the culprit in under 30 minutes.

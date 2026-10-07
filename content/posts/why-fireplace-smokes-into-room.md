@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Smoke rolling into the room instead of up the chimney? Usually a cold flue, closed damper, or negative pressure — here's the fix order."
 featured: "/images/why-fireplace-smokes-into-room.jpg"
 draft: false
+tags: ["heating", "safety"]
 ---
 
 Smoke rolling out of your fireplace and into the living room almost always comes down to one of three things: a **cold flue** that hasn't established draft yet, a **damper that isn't fully open**, or **negative pressure** in the house pulling air down the chimney. Wet wood and creosote buildup cause it too, but start with the big three — they're free to check and fix in minutes.

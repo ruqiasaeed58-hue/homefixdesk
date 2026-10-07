@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A $6–8 shrink-film kit adds an insulating air layer to drafty windows — cutting heat loss on single-pane windows dramatically. Tape, film, hair dryer, done."
 featured: "/images/window-film-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 **Window insulation film works: stick the double-sided tape to the window frame, press the plastic film onto it, shrink it drum-tight with a hair dryer, and trim the excess.** One $6–$8 kit covers about five standard windows and takes roughly 15 minutes per window. It adds a sealed air layer over the glass — a cheap storm window — and on single-pane or drafty windows it can cut heat loss dramatically. The film turns nearly invisible once shrunk and peels off cleanly in spring.

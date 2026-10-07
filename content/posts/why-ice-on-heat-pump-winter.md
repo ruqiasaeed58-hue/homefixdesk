@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Light frost on a heat pump is normal and melts in the defrost cycle. A thick ice shell that blocks the fan is not — it means a defrost, airflow, or refrigerant problem."
 featured: "/images/heat-pump-ice-fix.jpg"
 draft: false
+tags: ["heating", "winter"]
 ---
 
 A thin white frost on your heat pump's outdoor coil is completely normal — the unit melts it off automatically in a **defrost cycle**. But a thick ice shell that covers the fins, blocks the fan, or keeps building for days is not: it means a defrost, airflow, or refrigerant problem. Start with the 10-minute homeowner checks below (clear snow and debris, change the filter, check the drain path), and if ice keeps returning, call an HVAC technician — don't chip it or pour hot water on it.

@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Cracked, moldy, or peeling bathtub caulk lets water behind the tub — leading to hidden rot. Here's how to remove the old caulk and lay a perfect bead."
 featured: "/images/recaulk-bathtub-fix.jpg"
 draft: false
+tags: ["plumbing", "interior"]
 ---
 
 Caulk is the flexible waterproof seal where your bathtub meets the wall and floor. When it cracks, peels, or turns black with mold, water seeps behind the tub every time you shower — silently rotting the wall and subfloor. Recaulking is one of the highest-value DIY jobs in a home: about $15 in materials, an afternoon of work, and it prevents thousands of dollars in water damage.

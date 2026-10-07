@@ -4,9 +4,20 @@ date: 2026-10-04
 description: "A dripping shower head is usually a worn washer, loose connection, or mineral-clogged face. Here are the fixes from easiest to hardest."
 featured: "/images/leaky-shower-head-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A shower head that drips long after you turn the water off — or leaks from the connection while you shower — is wasting water and money around the clock. The fix is almost always simple: a worn washer, a loose fitting, or mineral buildup. No plumber required for the vast majority of cases.
+
+## Why shower heads leak (the three failure points)
+
+A shower head is a simple device — water in, spray out. Leaks happen at predictable points:
+
+1. **The washer** — a rubber ring that compresses to seal the head-to-arm joint. Hot water and chlorine harden it over 2–5 years until it no longer compresses. The #1 cause of face drips.
+2. **The thread seal** — Teflon tape or pipe dope filling the spiral gaps between male and female threads. It degrades, and temperature cycles loosen the joint. The #1 cause of connection leaks.
+3. **The valve behind the wall** — if the shower valve's cartridge does not fully close, water seeps through constantly and drips from the head. This is not a shower head problem at all — but it looks like one.
+
+The steps below address them in order of likelihood. Start with the head; only suspect the valve if a new head still drips.
 
 ## Quick diagnosis: where is it leaking from?
 
@@ -99,6 +110,19 @@ The internal diverter seal in the head is worn. Soaking rarely fixes this; repla
 
 **How do I know if I need a new shower head?**
 If cleaning and a new washer do not stop the drip, the internal valve seat is worn. Replacement heads are cheap enough that further repair rarely makes sense.
+
+**How much water does a dripping shower head waste?**
+A shower head dripping once per second wastes about 3,000 gallons per year — roughly $25–$60 in water and (for hot drips) water-heating costs. A hot-water drip costs double: you pay to heat water you never use.
+
+**Why is my new shower head leaking at the connection?**
+Almost always the Teflon tape: wrong direction, too few wraps, or old tape left underneath. Remove the head, clean the threads completely, apply 4–6 fresh clockwise wraps, and reinstall. Also check that the washer seated properly and is not pinched.
+
+## Hard water prevention
+
+- **Vinegar-soak quarterly** in hard-water areas — 1 hour in a bag of vinegar prevents the scale buildup that causes drips and weak flow.
+- **Wipe the face after showers.** A 10-second wipe prevents mineral deposits from hardening on the nozzles.
+- **Consider a shower filter or softener** if your water is very hard — it protects the shower head, the valve cartridge, and your skin and hair.
+- **Do not remove the flow restrictor to "fix" weak flow.** The weak flow is scale, not the restrictor. Clean the head instead.
 
 ## When to call a pro
 

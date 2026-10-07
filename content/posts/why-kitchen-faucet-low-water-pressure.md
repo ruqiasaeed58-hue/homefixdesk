@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Low pressure at one faucet is usually a clogged aerator or a half-closed supply valve — not your water main. Here's how to diagnose and fix it step by step."
 featured: "/images/faucet-pressure-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 When the kitchen faucet trickles but the bathroom faucets run fine, the problem is almost never your home's water pressure — it is something choking flow at that one fixture. In most cases the culprit is a clogged aerator (the little mesh screen at the tip of the spout), and the fix takes five minutes with no tools. Work through these checks in order, from easiest to hardest.

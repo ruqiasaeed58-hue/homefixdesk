@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "Winter heating drops indoor humidity to 10-20%, causing dry skin, static shocks, and nosebleeds. Aim for 30-50% RH with portable, bypass, or steam humidifiers — and save on heat, since humid air feels warmer."
 featured: "/images/why-house-so-dry-in-winter.jpg"
 draft: false
+tags: ["winter"]
 ---
 
 Your house is dry in the winter for a simple reason: **cold outdoor air holds almost no moisture, and your furnace heats that air without adding any.** A 20°F day might hold 0.8 grams of water per cubic meter of air; warm it to 72°F indoors and the relative humidity (RH) collapses to 10–20%. That's desert-level dryness — and it's why your skin itches, your lips crack, and every doorknob zaps you from December through March.

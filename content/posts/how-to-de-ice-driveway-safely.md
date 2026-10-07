@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Rock salt destroys concrete over time. Here's what melts ice fastest, what's safest for driveways and steps, and what never to use."
 featured: "/images/how-to-de-ice-driveway-safely.jpg"
 draft: false
+tags: ["winter", "safety", "exterior"]
 ---
 
 The ice-melting product that does the least damage to your concrete is **calcium chloride or magnesium chloride, used sparingly** — not the cheap rock salt most people grab by default. Rock salt (sodium chloride) works, but it's the hardest on concrete, slowest to act in real cold, and the most likely to leave you with a scaled, flaking driveway after a few winters. The good news: de-icing without destroying your concrete mostly comes down to choosing the right product and — this surprises people — using far less of it than you think.

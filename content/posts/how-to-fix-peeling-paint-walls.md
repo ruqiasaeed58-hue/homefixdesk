@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Peeling paint means the old coat lost adhesion — usually from moisture, poor prep, or painting over gloss. Scrape, prime, and repaint the right way."
 featured: "/images/peeling-paint-walls-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 Paint peels when it loses adhesion to the surface beneath — and simply painting over the peeling spot guarantees it will peel again. The fix is unglamorous but simple: remove everything loose, fix the underlying cause, prime properly, and repaint. Skip any step and you will be redoing it within a year.

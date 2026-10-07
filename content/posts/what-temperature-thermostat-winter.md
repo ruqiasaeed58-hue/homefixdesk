@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "68°F when home, lower when away — but there's nuance. The DOE-backed answer, why setbacks actually save money, and the one exception."
 featured: "/images/what-temperature-thermostat-winter.jpg"
 draft: false
+tags: ["heating", "winter"]
 ---
 
 The short answer: **68°F when you're home and awake, and 7–10 degrees lower when you're asleep or away.** That's the US Department of Energy's recommendation, and it balances comfort against cost better than any other simple rule. But "just set it to 68" misses the interesting part — the *why*. Understanding how heat loss works, when setbacks save real money, and the one big exception (heat pumps) is what actually cuts your winter bill.

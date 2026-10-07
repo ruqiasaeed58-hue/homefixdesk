@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A screw that spins without gripping has stripped its hole. Fill it with the toothpick, dowel, or epoxy method — and keep it from happening again."
 featured: "/images/stripped-screw-hole-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A stripped screw hole — where the screw spins freely without biting — is one of the most common DIY frustrations. It happens on door hinges, cabinet hardware, furniture, and deck boards. The fix is straightforward: give the screw fresh wood to bite into. Three methods cover every situation, from a quick hinge fix to a load-bearing repair.

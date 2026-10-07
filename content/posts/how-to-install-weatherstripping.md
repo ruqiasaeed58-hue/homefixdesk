@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Weatherstripping is the cheapest fall upgrade: $20–40 of material and an afternoon can cut drafts dramatically. Pick the right type for each gap."
 featured: "/images/weatherstripping-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 Weatherstripping is the cheapest meaningful fall upgrade: $20–$40 of material and one afternoon can cut door and window drafts dramatically. Three steps — measure the gap, pick the matching type, stick it on straight. Here's how to get each part right.

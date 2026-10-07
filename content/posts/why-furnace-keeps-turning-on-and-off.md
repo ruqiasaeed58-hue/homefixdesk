@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Short cycling — the furnace starting and stopping before finishing a heat cycle — is usually restricted airflow or a confused thermostat. It wears the system out fast."
 featured: "/images/furnace-short-cycle-fix.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 A furnace that keeps starting and stopping — running for a few minutes, shutting off, then firing back up — is **short cycling**. Nine times out of ten it's something you can fix in five minutes: a clogged air filter, blocked vents, or a confused thermostat. But don't ignore it — short cycling wears components out fast, inflates your heating bill, and leaves the house unevenly heated. Start with the easy checks below; if the pattern persists or you smell gas, call a technician.

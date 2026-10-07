@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Clean gutters twice in fall — once mid-season and once after the leaves finish dropping — to prevent ice dams, fascia rot, and foundation water."
 featured: "/images/gutters-fall-fix.jpg"
 draft: false
+tags: ["exterior"]
 ---
 
 Clean your gutters twice each fall: once in mid-fall after the first big wave of leaves drops, and once in late fall after the trees are bare but before the first hard freeze. That two-pass schedule is what actually prevents the expensive winter damage — ice dams, rotted fascia boards, and water pooling against your foundation. One cleaning is better than none, but a single early-fall cleaning just fills back up with leaves before winter arrives.

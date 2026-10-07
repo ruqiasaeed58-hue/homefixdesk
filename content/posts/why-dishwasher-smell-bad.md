@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A smelly dishwasher is usually a dirty filter, moldy door gasket, or food trapped in the drain. Here's the deep-clean routine that kills the odor for good."
 featured: "/images/dishwasher-smell-fix.jpg"
 draft: false
+tags: ["plumbing", "appliances"]
 ---
 
 A dishwasher that smells like rotten eggs or wet dog is not broken — it is dirty in places you never see. Food particles collect in the filter, mold grows on the rubber door gasket, and grease coats the spray arms. The good news: a proper deep clean takes about 30 minutes of actual work and the smell is usually gone the same day.

@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Scratching overhead? Squirrels chew wires and destroy insulation. How to evict them humanely and seal entry points so they never come back."
 featured: "/images/how-to-keep-squirrels-out-attic.jpg"
 draft: false
+tags: ["pests", "interior"]
 ---
 
 Scratching and scurrying in the ceiling, usually at dawn and dusk, means squirrels have moved into your attic. The fix has two parts, in this exact order: **evict them humanely with one-way exclusion doors**, then **seal every entry point with metal** — never foam or caulk alone. The golden rule: **never seal squirrels inside.** A trapped squirrel will chew through drywall, wiring, and anything else between it and freedom, turning a nuisance into real damage.

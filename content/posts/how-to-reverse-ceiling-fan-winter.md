@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "To reverse a ceiling fan for winter: turn it off, flip the small slide switch on the motor housing so it spins clockwise, and run it on low. You should feel no breeze."
 featured: "/images/how-to-reverse-ceiling-fan-winter.jpg"
 draft: false
+tags: ["winter", "interior", "fixtures"]
 ---
 
 Yes — your ceiling fan has a winter mode, and switching it takes about two minutes. In winter, you want the fan to spin **clockwise when viewed from below**, on **low speed**. That pushes the warm air that pools at the ceiling gently back down along the walls, warming the room without creating a chilling breeze. Flip it back to counterclockwise in spring when you want the cooling wind-chill effect again.

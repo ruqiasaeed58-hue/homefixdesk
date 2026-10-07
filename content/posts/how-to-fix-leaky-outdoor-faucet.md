@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A dripping hose bib wastes water and can freeze-burst in winter. Replace the washer or packing — or upgrade to a frost-free sillcock."
 featured: "/images/leaky-outdoor-faucet-fix.jpg"
 draft: false
+tags: ["plumbing", "interior"]
 ---
 
 An outdoor faucet (hose bib) that drips constantly wastes hundreds of gallons over a summer — and in cold climates, a leaking hose bib can freeze, burst the pipe inside the wall, and flood the house. The fix is usually a $2 washer and 20 minutes of work.

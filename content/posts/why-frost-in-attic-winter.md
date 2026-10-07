@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Frost on the underside of the roof deck means warm, moist house air is leaking into the attic. The fix is sealing attic air leaks — not adding more ventilation alone."
 featured: "/images/attic-frost-fix.jpg"
 draft: false
+tags: ["winter", "interior"]
 ---
 
 Frost on the underside of your roof deck forms because warm, humid air from your living space is leaking into a freezing-cold attic and condensing on the coldest surface it finds. The real fix is **sealing the air leaks** that carry that moisture upstairs — recessed lights, the attic hatch, top plates, plumbing and wiring penetrations, and bath fans venting into the attic. Adding more ventilation without sealing leaks is treating the symptom while the cause keeps running.

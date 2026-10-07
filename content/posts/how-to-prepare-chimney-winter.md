@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Creosote buildup causes thousands of chimney fires a year. A pre-season inspection, cleaning, and cap check make the fireplace safe to use."
 featured: "/images/chimney-winter-fix.jpg"
 draft: false
+tags: ["heating", "winter"]
 ---
 
 A chimney fire can hit 2,000°F — hot enough to crack flue liners and ignite surrounding framing — and creosote causes thousands of them in the US every year. Winter prep is simple: inspect, clean if needed, confirm the cap and damper work, burn only dry wood, check CO detectors. Do it in fall, before the first fire — a calm afternoon instead of a January emergency.

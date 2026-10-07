@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "A tripping breaker is doing its job — but it keeps tripping for a reason. Learn to tell overloads from shorts and ground faults by timing, and find the culprit appliance."
 featured: "/images/why-circuit-breaker-keeps-tripping.jpg"
 draft: false
+tags: ["electrical"]
 ---
 
 A circuit breaker that keeps tripping is almost always doing its job: cutting power to protect you from an overloaded wire, a short circuit, or a ground fault. The key question is *which* of these it is. The most useful diagnostic clue is timing — **trips the instant you reset it** points to a short circuit (stop resetting and call an electrician), while **trips only when a certain appliance runs** points to an overloaded circuit you can often fix by redistributing the load.

@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Mice move indoors as temperatures drop. Seal entry gaps larger than a dime with steel wool and caulk, cut off food sources, and set traps at the right spots."
 featured: "/images/mice-out-fix.jpg"
 draft: false
+tags: ["winter", "pests"]
 ---
 
 Every fall, as nights turn cold, mice do exactly what you would do in their position: look for somewhere warm with food. Your house — with its heated walls, pantry, and pet food bowls — is prime real estate. A mouse does not need an open door. It needs a gap the size of a dime, and most houses have dozens. The good news is that keeping mice out is mostly a one-time sealing job plus a few habit changes, and fall is the perfect time to do it — right before the invasion, not after you hear scratching in the walls.

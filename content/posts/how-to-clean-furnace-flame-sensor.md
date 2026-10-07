@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Furnace fires up then shuts off after a few minutes? A dirty flame sensor is the #1 cause. Clean it safely in 15 minutes with this step-by-step guide."
 featured: "/images/how-to-clean-furnace-flame-sensor.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 Your furnace fires up, the burners light, everything sounds normal — and then three or four minutes later it shuts itself off, only to try again a few minutes later. Nine times out of ten, that's a **dirty flame sensor**. It's a small metal rod inside the burner assembly that tells the control board "yes, there is a flame here." When it's coated in carbon and oxidation, the board can't detect the flame and shuts the gas off as a safety measure. Cleaning it is a 15-minute job you can do yourself.

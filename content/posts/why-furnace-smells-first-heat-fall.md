@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "That dusty, burning smell on first fall heat is usually just dust burning off the heat exchanger — but some smells (gas, electrical) mean shut it off and call a pro."
 featured: "/images/furnace-smell-fix.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 That dusty, slightly burnt smell when you fire up the furnace for the first time in fall is almost always harmless — it's a summer's worth of dust scorching off the heat exchanger and burners, and it should fade within an hour or two. But not every furnace smell is innocent: rotten-egg gas odor means get everyone out and call your gas utility, and an acrid electrical or plastic-burning smell means shut the system off and book a technician. Here's how to tell the difference and what to do about each one.

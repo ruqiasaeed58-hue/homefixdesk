@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A dripping faucet is usually caused by a worn cartridge or washer. Here is how to identify your faucet type and fix the drip yourself in about 30 minutes."
 featured: "/images/dripping-faucet-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A dripping faucet is almost always caused by a worn-out internal seal — a cartridge in single-handle faucets, or a rubber washer in older two-handle faucets. The fix takes about 30 minutes, costs under $25 in parts, and stops the drip that can waste over 3,000 gallons of water per year.

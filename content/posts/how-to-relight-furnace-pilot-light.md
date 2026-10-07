@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "Relighting a furnace pilot light takes 10 minutes: turn the gas off, wait 5 minutes, switch the valve to Pilot, hold it down, light the pilot, and wait 30-60 seconds before turning to On. Gas smell? Stop and leave."
 featured: "/images/how-to-relight-furnace-pilot-light.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 Relighting a furnace pilot light takes about ten minutes: turn the gas control knob to **Off**, wait **five full minutes** for gas to clear, switch it to **Pilot**, press and hold the knob, light the pilot with a long lighter, keep holding for **30–60 seconds** so the thermocouple heats up, then turn the knob to **On**. If the pilot stays lit, set the thermostat and wait for the burners to fire.

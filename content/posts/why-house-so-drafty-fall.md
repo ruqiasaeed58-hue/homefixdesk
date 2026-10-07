@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Drafts spike in fall as the temperature gap grows. A candle or incense-stick test finds the culprits: windows, doors, outlets, attic hatch, and recessed lights."
 featured: "/images/drafty-house-fix.jpg"
 draft: false
+tags: ["interior", "winter"]
 ---
 
 Your house feels draftier in fall because the temperature gap between inside and outside grows — and every air leak that was invisible in July suddenly starts stealing heat in October. The good news: most drafts come from a short list of predictable spots, and you can find every one of them with a lit incense stick and an hour of your time. Seal the big ones and you'll feel the difference the same evening, usually for less than $100 in materials.

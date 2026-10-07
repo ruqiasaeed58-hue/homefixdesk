@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Water trapped in the pump freezes and cracks seals and housings — a repair that can cost more than the machine. Drain it fully and run pump-saver antifreeze through the pump before storage."
 featured: "/images/pressure-washer-winter-fix.jpg"
 draft: false
+tags: ["appliances", "winter"]
 ---
 
 Yes — every pressure washer, electric or gas, must be winterized before it sits through freezing weather. Water left inside the pump freezes, expands about 9%, and cracks seals, valves, and the pump housing itself. A new pump head can cost $150–$300, often more than a budget machine is worth. The whole job takes 20–30 minutes: disconnect everything, drain all the water out, run pump-saver (non-toxic RV antifreeze) through the pump until it exits the outlet, and store it dry and covered. For gas models, add fuel stabilizer to the tank and run it for 2 minutes so the carburetor doesn't gum up.

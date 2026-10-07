@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Ice dams form when attic heat melts roof snow that refreezes at the eaves. Stop them at the source: seal attic air leaks, upgrade insulation, and keep snow off the lower roof."
 featured: "/images/ice-dams-fix.jpg"
 draft: false
+tags: ["winter", "exterior"]
 ---
 
 Ice dams form because heat escaping from your living space melts snow on the warm upper roof, and that meltwater refreezes when it reaches the cold eaves — building a ridge of ice that traps water behind it. Preventing them permanently means fixing the heat loss at its source: seal attic air leaks, bring attic insulation up to R-38 to R-60, and keep soffit-to-ridge ventilation flowing so the roof deck stays cold. Clearing snow off the lower roof after storms with a roof rake is your short-term defense.

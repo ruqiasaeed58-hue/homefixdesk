@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A door that won't latch is almost always a misaligned strike plate — caused by seasonal swelling, loose hinges, or house settling. Here's how to diagnose and fix it in 30 minutes."
 featured: "/images/door-latch-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A door that used to click shut and now just bounces off the frame is almost always suffering from one thing: the latch bolt and the strike plate no longer line up. Wood moves with the seasons, hinge screws loosen over years of use, and houses settle — any of these shifts the door a few millimeters, which is all it takes. You can diagnose the exact cause in two minutes and fix most cases in under half an hour with a screwdriver and a file.

@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Swapping a furnace filter takes 5 minutes: find the slot, read the size off the old filter, slide the new one in with the airflow arrow pointing toward the blower. Replace pleated filters every 60-90 days."
 featured: "/images/how-to-replace-furnace-filter.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 Replacing your furnace filter takes about five minutes, needs no tools, and is the single highest-impact maintenance task in your HVAC system: find the slot, read the size off the old filter, and slide the new one in with the airflow arrow pointing toward the blower. Do it before the first sustained heating run — the filter that sat through a dusty summer of air conditioning is almost certainly loaded.

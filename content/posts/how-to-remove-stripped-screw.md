@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A stripped screw head won't grip your driver. Try these methods in order — from the rubber band trick to screw extractors — and get it out."
 featured: "/images/stripped-screw-removal-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 A stripped screw head — the cross or slot worn smooth so your driver just spins — stops a project cold. Do not keep grinding at it with the same bit; that only makes it worse. Work through these methods from gentlest to most aggressive. One of them will get it out.

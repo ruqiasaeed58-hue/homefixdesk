@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Squeaky floors are wood rubbing against nails or subfloor. Find the exact spot, then silence it with screws, lubricant, or shims — with or without carpet."
 featured: "/images/creaky-floorboards-fix.jpg"
 draft: false
+tags: ["interior"]
 ---
 
 Creaky floors are caused by movement — wood rubbing against a nail, a subfloor panel flexing against a joist, or two boards grinding together. The sound is just friction. Find where the movement is, stop the movement, and the creak stops. Most squeaks are fixed in under an hour with basic tools.

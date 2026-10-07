@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Phones have protection circuits, but charging mistakes still start fires. The 6 Fire Prevention Week charging rules every home should follow."
 featured: "/images/is-it-safe-to-charge-phone-overnight.jpg"
 draft: false
+tags: ["safety"]
 ---
 
 The 2026 Fire Prevention Week theme is **"Charge into Fire Safety"** — all about lithium-ion battery charging safety. So let's answer the question honestly: **yes, overnight phone charging is generally safe with a modern phone and a good charger — but charging mistakes still start real fires every year**, and the risk climbs fast when you use cheap chargers, bury the phone under bedding, or bring e-bike batteries into the living room. Your phone has protection circuits that make overnight charging an ordinary, low-risk thing. Your habits around it decide whether it stays that way.
