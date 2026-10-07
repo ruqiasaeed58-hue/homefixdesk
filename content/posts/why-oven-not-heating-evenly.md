@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "Before you blame the recipe, run the $8 oven thermometer test. The 6 most likely causes of uneven oven heat — bad bake element, calibration offset, rack position, overcrowding, worn gasket, convection fan — and how to fix each."
 featured: "/images/why-oven-not-heating-evenly.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 **Before you touch a single part, buy an $8 oven thermometer and hang it from the center rack.** Set the oven to 350°F, wait 20 minutes, and read the thermometer through the glass without opening the door. If it reads 325°F or 375°F, you've proved the problem is the oven — not your recipe. About **1 in 4 home ovens runs 25°F or more off** its dial setting, the single most common reason food burns on one side and stays raw on the other.

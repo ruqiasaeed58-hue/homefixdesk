@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Water under the sink comes from supply lines, drain connections, or the faucet above. Trace the leak to its source with this step-by-step method."
 featured: "/images/water-under-sink-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 Finding water under the kitchen sink is stressful — but the leak is almost always visible once you know where to look. Water under a sink comes from only three places: the supply lines (pressurized, leaks constantly), the drain assembly (leaks only when water runs down the drain), or the faucet/tap above (drips down through the mounting holes). This guide helps you trace it to the source.

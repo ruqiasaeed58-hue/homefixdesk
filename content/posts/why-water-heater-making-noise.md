@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "Popping, rumbling, or banging from your water heater is usually sediment buildup. Flush the tank and check the anode rod — here's how."
 featured: "/images/noisy-water-heater-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A water heater that pops, rumbles, or bangs is telling you something: sediment has built up inside the tank. The noise is water trapped under mineral deposits, flashing to steam and rumbling through the sediment layer. It is the most common water heater complaint — and the fix is maintenance most homeowners never do.

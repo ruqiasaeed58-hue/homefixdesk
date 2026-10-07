@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A toilet that clogs constantly usually has a weak flush, a partial blockage, or the wrong things going down it. Diagnose and fix recurring clogs."
 featured: "/images/toilet-clogging-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 An occasional clog happens to everyone. But a toilet that clogs every week has an underlying problem — and it is rarely "bad luck." The usual suspects: a weak flush that cannot clear the bowl, a partial blockage lodged in the trap, or non-flushable items going down. Work through the causes in order.

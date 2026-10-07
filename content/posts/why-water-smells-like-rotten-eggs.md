@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "Smell only in hot water? It's your water heater's anode rod. Hot and cold? Sulfur bacteria in a well. Here's the 30-second diagnosis and the fix."
 featured: "/images/why-water-smells-like-rotten-eggs.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A rotten-egg smell in your water almost always comes from **hydrogen sulfide**, a gas produced by bacteria reacting with sulfur compounds. The fix is usually simple — but **which fix** depends entirely on where the smell shows up, and you can diagnose that in 30 seconds.

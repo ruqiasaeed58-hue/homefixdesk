@@ -19,6 +19,7 @@
     </aside>
     {{ end }}
     <div class="content">{{ .Content }}</div>
+    {{ partial "faq-schema.html" . }}
     <aside class="safety">
       <strong>Safety note:</strong> If you are unsure about any step, or the job involves electricity, gas, or structural work, call a licensed professional. These guides explain common fixes — they are not a substitute for professional advice.
     </aside>
@@ -33,7 +34,19 @@
   <section class="related">
     <h2>Related questions</h2>
     <div class="cards">
-    {{ range first 3 (where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink) }}
+    {{ $all := where (where .Site.RegularPages "Section" "posts") "RelPermalink" "!=" .RelPermalink }}
+    {{ $tagged := slice }}
+    {{ with .Params.tags }}{{ $tagged = where $all "Params.tags" "intersect" . }}{{ end }}
+    {{ $seen := slice .RelPermalink }}
+    {{ range $p := $tagged }}{{ $seen = $seen | append $p.RelPermalink }}{{ end }}
+    {{ $picks := first 3 $tagged }}
+    {{ range $p := $all }}
+      {{ if and (lt (len $picks) 3) (not (in $seen $p.RelPermalink)) }}
+        {{ $picks = $picks | append $p }}
+        {{ $seen = $seen | append $p.RelPermalink }}
+      {{ end }}
+    {{ end }}
+    {{ range $picks }}
       <a class="card" href="{{ .RelPermalink }}">
         {{ with .Params.featured }}<picture><source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp"><img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy"></picture>{{ end }}
         <div class="card-body">

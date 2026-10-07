@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A chirp every 30–60 seconds is almost always a low battery — and it's louder at night because cold air drops battery voltage. Replace the battery and reset the unit."
 featured: "/images/smoke-detector-chirp-fix.jpg"
 draft: false
+tags: ["safety"]
 ---
 
 That short chirp every 30–60 seconds is almost always a **low battery warning** — and it gets louder and more frequent at night because cooler air drops battery voltage below the detector's trigger point. Fix it by swapping in a fresh, matching battery, then pressing and holding the test button for 15–30 seconds to reset the unit. Never remove the battery and walk away — a disabled detector is how survivable fires turn fatal. The whole fix takes about ten minutes.
