@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Hot water gone five minutes into your shower? Usually it's the dip tube, thermostat, sediment, or an undersized tank — here's how to tell which."
 featured: "/images/why-shower-runs-out-hot-water.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 If your shower used to stay hot for fifteen minutes and now goes lukewarm in five, the most likely culprit is a **broken dip tube** — a cheap plastic tube inside the tank that snapped, so incoming cold water dumps straight into the hot layer at the top. If hot water has *always* run out fast, it's more likely the **thermostat is set too low**, **sediment is eating up capacity**, or your household has simply **outgrown the tank**. In almost every case, the fix costs far less than a new water heater.

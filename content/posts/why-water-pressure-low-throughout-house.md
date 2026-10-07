@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "Low water pressure in every fixture points to a whole-house cause: main valve, pressure-reducing valve, old galvanized pipes, or the city supply. Here's how to diagnose and fix each one."
 featured: "/images/why-water-pressure-low-throughout-house.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 Low water pressure throughout the entire house — weak flow at every faucet, a shower that's more trickle than spray, a washing machine that takes forever to fill — almost always traces back to a **whole-house cause**: a partially closed main shutoff valve, a failing pressure-reducing valve (PRV), corroded galvanized supply pipes, or a problem on the municipal side. A $10 pressure gauge screwed onto a hose bib tells you in two minutes whether the problem is inside your house or out on the street.

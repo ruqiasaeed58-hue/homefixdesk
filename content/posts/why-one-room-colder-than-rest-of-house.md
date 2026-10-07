@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "One room colder than the rest of the house is almost always an airflow or insulation problem. Here's a room-by-room checklist of causes and fixes, ranked from free to about $1,850."
 featured: "/images/why-one-room-colder-than-rest-of-house.jpg"
 draft: false
+tags: ["heating", "interior"]
 ---
 
 One room colder than the rest of the house is one of the most common heating complaints in American homes — and in most cases, the fix costs little or nothing. The usual suspects, in order of likelihood: a supply vent that's blocked or closed, a dirty furnace filter choking airflow to the farthest rooms, leaky or disconnected ductwork, no return-air path for the cold room, weak insulation (rooms over garages or additions), or a thermostat mounted in the warmest part of the house.

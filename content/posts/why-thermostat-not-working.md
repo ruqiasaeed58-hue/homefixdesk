@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A dead or unresponsive thermostat usually means dead batteries, a tripped breaker, or a tripped condensate float switch. Follow this symptom-first guide to find your fix."
 featured: "/images/why-thermostat-not-working.jpg"
 draft: false
+tags: ["heating"]
 ---
 
 When your thermostat stops working, don't panic — and don't immediately buy a new one. Most thermostat failures are simple: dead batteries, a tripped circuit breaker, the furnace power switch flipped off, or a safety switch doing its job. Jump straight to the branch that matches your situation.

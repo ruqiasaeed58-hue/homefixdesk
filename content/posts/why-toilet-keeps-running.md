@@ -5,6 +5,7 @@ description: "A toilet that keeps running is usually caused by a worn flapper or
 featured: "/images/toilet-flapper-fix.jpg"
 featuredAlt: "Inside of a toilet tank showing the flapper valve and fill valve"
 draft: false
+tags: ["plumbing"]
 ---
 
 A toilet that keeps running after flushing is almost always caused by water leaking from the tank into the bowl — usually because the rubber flapper is worn out or the fill valve is set too high. The good news: this is one of the easiest plumbing fixes there is. It takes about 15 minutes, requires no special skill, and the parts cost under $10.

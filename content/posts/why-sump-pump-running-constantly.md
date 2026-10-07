@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "A sump pump that never stops usually has a stuck float switch, a failed check valve, or a blocked discharge line. Here's how to test each one."
 featured: "/images/why-sump-pump-running-constantly.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A sump pump that runs constantly usually isn't working hard — it's working wrong. The most common cause is a **stuck or tangled float switch**: the float that should drop and shut the pump off gets wedged against the pit wall, the power cord, or the discharge pipe, so the pump never gets the signal to stop.

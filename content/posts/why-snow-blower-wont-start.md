@@ -4,6 +4,7 @@ date: 2026-10-07
 description: "Snow's falling and the snow blower won't start? Run through these checks — fuel, spark plug, choke, primer — before paying for a repair."
 featured: "/images/why-snow-blower-wont-start.jpg"
 draft: false
+tags: ["appliances", "winter"]
 ---
 
 The snow is coming down, the driveway is filling up, and your snow blower just cranks — or worse, does nothing at all. Before you call a repair shop, work through this checklist. Most no-start snow blowers are fixed by one of five things: the **fuel valve is off**, the **gasoline is stale**, the **choke is in the wrong position**, the **spark plug is fouled**, or the **primer bulb needs more presses**. All are free or nearly free to check and fix in your own garage.

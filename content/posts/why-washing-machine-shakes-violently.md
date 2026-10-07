@@ -4,6 +4,7 @@ date: 2026-10-05
 description: "A shaking washer is usually an unbalanced load, unleveled feet, or shipping bolts left in a new front-loader. Work the free fixes first — most violent shaking is solved in minutes without spending a dollar."
 featured: "/images/why-washing-machine-shakes-violently.jpg"
 draft: false
+tags: ["appliances"]
 ---
 
 A washer that shakes violently during spin is almost always suffering from a short list of fixable problems — most cost nothing. Work the free-fixes ladder first: rebalance the load, level the feet, and on a new front-loader, check for shipping bolts the installer forgot to remove. Only when it shakes with balanced loads on level feet do you move to worn suspension or bearings.

@@ -4,6 +4,7 @@ date: 2026-10-06
 description: "That bang when the water stops is water hammer: a pressure wave from water stopping suddenly. Here's what causes it, the free fixes, and when to install arrestors."
 featured: "/images/why-pipes-banging-water-hammer.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 That loud bang — or series of bangs — from inside your walls when you shut off the water is called **water hammer**: hundreds of pounds of moving water stopping in a fraction of a second. A washing machine filling its tub is the #1 trigger, because its solenoid valves slam shut in milliseconds. The free fixes are securing loose pipe straps and draining the system to restore waterlogged air chambers; stubborn cases get solved with **water hammer arrestors** screwed onto the washing machine or dishwasher valves.

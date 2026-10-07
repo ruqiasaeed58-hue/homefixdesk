@@ -4,6 +4,7 @@ date: 2026-10-04
 description: "A smelly shower drain is usually biofilm, a dry P-trap, or hair buildup. Identify the smell type and eliminate it with this cleaning routine."
 featured: "/images/shower-drain-smell-fix.jpg"
 draft: false
+tags: ["plumbing"]
 ---
 
 A shower that smells like a sewer, rotten eggs, or mildew is unpleasant — and the cause is usually right under your feet. Shower drains collect hair, soap scum, and body oils that feed bacteria (biofilm), and the whole mess sits in a warm, damp pipe. Here is how to identify your smell and eliminate it.
