@@ -1,0 +1,43 @@
+{{/* FAQPage JSON-LD parsed from the ## FAQ / ## Frequently Asked Questions section.
+     Questions are **bold lines**, answers are the paragraphs that follow.
+     Built as a dict and piped through safeJS so Go's html/template does not
+     JS-escape the quotes inside <script> tags. */}}
+{{ with .RawContent }}
+{{ $faqBody := "" }}
+{{ range $h := slice "## Frequently asked questions" "## Frequently Asked Questions" "## FAQ" }}
+  {{ $parts := split $.RawContent $h }}
+  {{ if and (eq $faqBody "") (gt (len $parts) 1) }}{{ $faqBody = index $parts 1 }}{{ end }}
+{{ end }}
+{{ if $faqBody }}
+{{ $qlist := slice }}
+{{ $alist := slice }}
+{{ $curQ := "" }}
+{{ $curA := slice }}
+{{ range $line := split $faqBody "\n" }}
+  {{ $t := trim $line " \r" }}
+  {{ if findRE `^\*\*.+\*\*$` $t }}
+    {{ if $curQ }}
+      {{ $qlist = $qlist | append $curQ }}
+      {{ $alist = $alist | append (delimit $curA " ") }}
+    {{ end }}
+    {{ $curQ = replaceRE `^\*\*(.+)\*\*$` "$1" $t }}
+    {{ $curA = slice }}
+  {{ else if and $curQ (ne $t "") (not (hasPrefix $t "#")) }}
+    {{ $curA = $curA | append $t }}
+  {{ end }}
+{{ end }}
+{{ if $curQ }}
+  {{ $qlist = $qlist | append $curQ }}
+  {{ $alist = $alist | append (delimit $curA " ") }}
+{{ end }}
+{{ if $qlist }}
+{{ $entities := slice }}
+{{ range $i, $q := $qlist }}
+  {{ $entities = $entities | append (dict "@type" "Question" "name" $q "acceptedAnswer" (dict "@type" "Answer" "text" (index $alist $i | plainify))) }}
+{{ end }}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $entities | jsonify | safeJS }}
+</script>
+{{ end }}
+{{ end }}
+{{ end }}
