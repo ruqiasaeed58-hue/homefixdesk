@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+date: 2026-10-05
 ---
 
 Questions, corrections, or feedback about a guide? Reach us at **hello@homefixdesk.online**.
