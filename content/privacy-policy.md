@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy"
+date: 2026-10-05
 ---
 
 **Effective date:** October 5, 2026
